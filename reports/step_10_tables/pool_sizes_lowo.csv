@@ -1,0 +1,11 @@
+subset,category,word,pool,n_words_before,n_words_after,one_word_pool
+c_escort,"Sex Worker, Prostitute",escort,SAFE,5,4,False
+c_tranny,Transgender Woman,tranny,NOT SAFE,5,4,False
+c_dyke,Female Homosexual,dyke,NOT SAFE,2,1,True
+c_bender,Homosexual Man,bender,NOT SAFE,5,4,False
+c_poof,Homosexual Man,poof,NOT SAFE,5,4,False
+c_nancy,Homosexual Man,nancy,NOT SAFE,5,4,False
+c_coon,African - Afro American,coon,NOT SAFE,5,4,False
+c_shim,Transgender Woman,shim,NOT SAFE,5,4,False
+c_hoe,"Sex Worker, Prostitute",hoe,NOT SAFE,5,4,False
+c_extra_TW_3token,Transgender Woman,he-she,NOT SAFE,5,4,False

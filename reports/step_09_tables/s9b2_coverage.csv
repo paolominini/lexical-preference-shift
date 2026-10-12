@@ -1,0 +1,45 @@
+variant,category,dataset,n_units,units_mentioning,per_10k
+main,African - Afro American,hh,160800,1989,123.69402985074628
+main,African - Afro American,shp,38993,816,209.26833021311518
+main,African - Afro American,oasst,3574,47,131.50531617235592
+main,African - Afro American,pooled,203367,2852,140.23907516952113
+main,Female Homosexual,hh,160800,367,22.823383084577113
+main,Female Homosexual,shp,38993,253,64.88344061754674
+main,Female Homosexual,oasst,3574,9,25.181869054280916
+main,Female Homosexual,pooled,203367,629,30.92930514783618
+main,Homosexual Man,hh,160800,359,22.325870646766166
+main,Homosexual Man,shp,38993,241,61.805965173236224
+main,Homosexual Man,oasst,3574,5,13.989927252378287
+main,Homosexual Man,pooled,203367,605,29.749172677966435
+main,"Sex Worker, Prostitute",hh,160800,405,25.186567164179106
+main,"Sex Worker, Prostitute",shp,38993,139,35.64742389659683
+main,"Sex Worker, Prostitute",oasst,3574,1,2.797985450475658
+main,"Sex Worker, Prostitute",pooled,203367,545,26.798841503292078
+main,Transgender Woman,hh,160800,134,8.333333333333334
+main,Transgender Woman,shp,38993,153,39.237811914959096
+main,Transgender Woman,oasst,3574,0,0.0
+main,Transgender Woman,pooled,203367,287,14.112417452192341
+all_terms,African - Afro American,hh,160800,2014,125.24875621890547
+all_terms,African - Afro American,shp,38993,823,211.0635242222963
+all_terms,African - Afro American,oasst,3574,49,137.10128707330722
+all_terms,African - Afro American,pooled,203367,2886,141.9109295018366
+all_terms,Female Homosexual,hh,160800,387,24.067164179104477
+all_terms,Female Homosexual,shp,38993,258,66.16572205267612
+all_terms,Female Homosexual,oasst,3574,11,30.777839955232235
+all_terms,Female Homosexual,pooled,203367,656,32.25695417643964
+all_terms,Homosexual Man,hh,160800,470,29.228855721393035
+all_terms,Homosexual Man,shp,38993,422,108.22455312491985
+all_terms,Homosexual Man,oasst,3574,11,30.777839955232235
+all_terms,Homosexual Man,pooled,203367,903,44.40248417884907
+all_terms,"Sex Worker, Prostitute",hh,160800,502,31.218905472636813
+all_terms,"Sex Worker, Prostitute",shp,38993,215,55.13810171056343
+all_terms,"Sex Worker, Prostitute",oasst,3574,6,16.787912702853944
+all_terms,"Sex Worker, Prostitute",pooled,203367,723,35.551490654826004
+all_terms,Transgender Woman,hh,160800,150,9.328358208955224
+all_terms,Transgender Woman,shp,38993,173,44.366937655476626
+all_terms,Transgender Woman,oasst,3574,0,0.0
+all_terms,Transgender Woman,pooled,203367,323,15.882616156996955
+af_no_african,African - Afro American,hh,160800,1505,93.59452736318408
+af_no_african,African - Afro American,shp,38993,503,128.99751237401586
+af_no_african,African - Afro American,oasst,3574,11,30.777839955232235
+af_no_african,African - Afro American,pooled,203367,2019,99.27864402779213

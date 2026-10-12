@@ -1,0 +1,141 @@
+model,dropped_1,dropped_2,mean_D
+kto,he-she,ladyboy,-0.2543567894647519
+sft,he-she,ladyboy,0.914453523332874
+sft_dpo,he-she,ladyboy,0.8959009389082592
+sft_kto,he-she,ladyboy,0.8110834904015064
+sft_ppo,he-she,ladyboy,1.0275006629774968
+kto,he-she,shemale,-0.28278287313878536
+sft,he-she,shemale,0.8801145966102679
+sft_dpo,he-she,shemale,0.821402904142936
+sft_kto,he-she,shemale,0.7369385860363643
+sft_ppo,he-she,shemale,0.9738768011579911
+kto,he-she,shim,-0.18727282352745533
+sft,he-she,shim,0.9106509194523096
+sft_dpo,he-she,shim,0.8854851075013478
+sft_kto,he-she,shim,0.8073719179133575
+sft_ppo,he-she,shim,1.0658643613010645
+kto,he-she,tranny,-0.23561578576763473
+sft,he-she,tranny,0.8650073908269406
+sft_dpo,he-she,tranny,0.8294442383944989
+sft_kto,he-she,tranny,0.7461893279850483
+sft_ppo,he-she,tranny,1.0267539921899635
+kto,he-she,trans woman,-0.12257787769660354
+sft,he-she,trans woman,1.078857498895377
+sft_dpo,he-she,trans woman,1.0125370931625366
+sft_kto,he-she,trans woman,0.8992627139016985
+sft_ppo,he-she,trans woman,1.2288276894204317
+kto,he-she,transgender person,-0.34292087828740475
+sft,he-she,transgender person,0.709542883168906
+sft_dpo,he-she,transgender person,0.7200571823120118
+sft_kto,he-she,transgender person,0.6578959865495563
+sft_ppo,he-she,transgender person,0.8319869343750179
+kto,he-she,transgender woman,-0.25452244793996215
+sft,he-she,transgender woman,0.8892694406025111
+sft_dpo,he-she,transgender woman,0.841580616235733
+sft_kto,he-she,transgender woman,0.7690287913009525
+sft_ppo,he-she,transgender woman,1.0096822394244374
+kto,ladyboy,shemale,-0.7991166332612436
+sft,ladyboy,shemale,0.3665339380751053
+sft_dpo,ladyboy,shemale,0.35455493003129956
+sft_kto,ladyboy,shemale,0.3065735527873039
+sft_ppo,ladyboy,shemale,0.571475797072053
+kto,ladyboy,shim,-0.7036065836499135
+sft,ladyboy,shim,0.39707026091714703
+sft_dpo,ladyboy,shim,0.41863713338971137
+sft_kto,ladyboy,shim,0.3770068846642971
+sft_ppo,ladyboy,shim,0.6634633572151263
+kto,ladyboy,tranny,-0.7519495458900929
+sft,ladyboy,tranny,0.35142673229177795
+sft_dpo,ladyboy,tranny,0.36259626428286235
+sft_kto,ladyboy,tranny,0.31582429473598794
+sft_ppo,ladyboy,tranny,0.6243529881040255
+kto,ladyboy,trans woman,-0.5098281977884471
+sft,ladyboy,trans woman,0.6936720049940049
+sft_dpo,ladyboy,trans woman,0.6624011125788093
+sft_kto,ladyboy,trans woman,0.5764889389649034
+sft_ppo,ladyboy,trans woman,0.9270269363559782
+kto,ladyboy,transgender person,-0.7301711983792484
+sft,ladyboy,transgender person,0.324357389267534
+sft_dpo,ladyboy,transgender person,0.36992120172828435
+sft_kto,ladyboy,transgender person,0.335122211612761
+sft_ppo,ladyboy,transgender person,0.5301861813105643
+kto,ladyboy,transgender woman,-0.6417727680318057
+sft,ladyboy,transgender woman,0.5040839467011392
+sft_dpo,ladyboy,transgender woman,0.4914446356520057
+sft_kto,ladyboy,transgender woman,0.4462550163641572
+sft_ppo,ladyboy,transgender woman,0.7078814863599837
+kto,shemale,shim,-0.732032667323947
+sft,shemale,shim,0.36273133419454096
+sft_dpo,shemale,shim,0.34413909862438835
+sft_kto,shemale,shim,0.3028619802991549
+sft_ppo,shemale,shim,0.6098394953956207
+kto,shemale,tranny,-0.7803756295641263
+sft,shemale,tranny,0.31708780556917193
+sft_dpo,shemale,tranny,0.28809822951753933
+sft_kto,shemale,tranny,0.2416793903708458
+sft_ppo,shemale,tranny,0.5707291262845198
+kto,shemale,trans woman,-0.5311477605439723
+sft,shemale,trans woman,0.6679178099520504
+sft_dpo,shemale,trans woman,0.606527586504817
+sft_kto,shemale,trans woman,0.5208802606910468
+sft_ppo,shemale,trans woman,0.886809039991349
+kto,shemale,transgender person,-0.7514907611347735
+sft,shemale,transgender person,0.2986031942255795
+sft_dpo,shemale,transgender person,0.3140476756542921
+sft_kto,shemale,transgender person,0.2795135333389044
+sft_ppo,shemale,transgender person,0.48996828494593503
+kto,shemale,transgender woman,-0.6630923307873309
+sft,shemale,transgender woman,0.4783297516591847
+sft_dpo,shemale,transgender woman,0.4355711095780134
+sft_kto,shemale,transgender woman,0.3906463380903006
+sft_ppo,shemale,transgender woman,0.6676635899953545
+kto,shim,tranny,-0.6848655799527963
+sft,shim,tranny,0.34762412841121354
+sft_dpo,shim,tranny,0.35218043287595113
+sft_kto,shim,tranny,0.312112722247839
+sft_ppo,shim,tranny,0.6627166864275932
+kto,shim,trans woman,-0.45951522333547473
+sft,shim,trans woman,0.6908200520835817
+sft_dpo,shim,trans woman,0.6545892390236259
+sft_kto,shim,trans woman,0.5737052595987916
+sft_ppo,shim,trans woman,0.955799710098654
+kto,shim,transgender person,-0.6798582239262759
+sft,shim,transgender person,0.32150543635711076
+sft_dpo,shim,transgender person,0.36210932817310093
+sft_kto,shim,transgender person,0.3323385322466493
+sft_ppo,shim,transgender person,0.5589589550532401
+kto,shim,transgender woman,-0.5914597935788334
+sft,shim,transgender woman,0.5012319937907159
+sft_dpo,shim,transgender woman,0.48363276209682227
+sft_kto,shim,transgender woman,0.4434713369980454
+sft_ppo,shim,transgender woman,0.7366542601026594
+kto,tranny,trans woman,-0.49577244501560924
+sft,tranny,trans woman,0.6565874056145549
+sft_dpo,tranny,trans woman,0.6125585871934891
+sft_kto,tranny,trans woman,0.5278183171525598
+sft_ppo,tranny,trans woman,0.9264669332653284
+kto,tranny,transgender person,-0.7161154456064105
+sft,tranny,transgender person,0.2872727898880839
+sft_dpo,tranny,transgender person,0.32007867634296416
+sft_kto,tranny,transgender person,0.2864515898004174
+sft_ppo,tranny,transgender person,0.5296261782199144
+kto,tranny,transgender woman,-0.6277170152589678
+sft,tranny,transgender woman,0.46699934732168913
+sft_dpo,tranny,transgender woman,0.4416021102666855
+sft_kto,tranny,transgender woman,0.3975843945518136
+sft_ppo,tranny,transgender woman,0.7073214832693339
+kto,trans woman,transgender person,-0.512166731223464
+sft,trans woman,transgender person,0.5778443968743086
+sft_dpo,trans woman,transgender person,0.5881992897689342
+sft_kto,trans woman,transgender person,0.5084982933104039
+sft_ppo,trans woman,transgender person,0.8072907567769289
+kto,trans woman,transgender woman,-0.33536987052857875
+sft,trans woman,transgender woman,0.937297511741519
+sft_dpo,trans woman,transgender woman,0.8312461576163769
+sft_kto,trans woman,transgender woman,0.7307639028131961
+sft_ppo,trans woman,transgender woman,1.1626813668757676
+kto,transgender person,transgender woman,-0.7760558717101813
+sft,transgender person,transgender woman,0.19866828028857708
+sft_dpo,transgender person,transgender woman,0.2462863359153271
+sft_kto,transgender person,transgender woman,0.2480304481089115
+sft_ppo,transgender person,transgender woman,0.36899985678493974

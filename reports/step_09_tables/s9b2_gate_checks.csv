@@ -1,0 +1,14 @@
+check,value,expected,pass,blocking
+1a. HH pairs that differ before the final turn (info),312 (0.19%),reported,True,False
+1b. HH pairs with identical final turns (info),740,reported,True,False
+"2a. SHP usable comparisons (label 0/1, both comments non-empty) / pairs",348690 / 348718,"<= 348,718",True,True
+2b. OASST usable comparisons (parents with >= 2 ranked English assistant replies),7851,> 0,True,True
+2c. OASST English assistant replies / dropped for null rank / deleted among used (info),24083 / 2040 / 78,reported,True,False
+0. cached train files at the pinned revisions (offline),"{'hh': 4, 'shp': 18, 'oasst': 1}","{'hh': 4, 'shp': 18, 'oasst': 1}",True,True
+3a. units: HH pairs,160800,160800,True,True
+3b. units: SHP posts (= unique posts of the first version),38993,38993,True,True
+3c. units: OASST English message trees (info),3574,reported,True,False
+4a. Shift = h3_family_summary family_mean (recomputed from the four columns),5.551115123125783e-17,<= 1e-12,True,True
+"4b. pools after the S10 (c) exclusion (neutral, derogatory)","{'African - Afro American': (3, 4), 'Female Homosexual': (3, 1), 'Homosexual Man': (5, 2), 'Sex Worker, Prostitute': (4, 4), 'Transgender Woman': (3, 3)}","{'African - Afro American': (3, 4), 'Female Homosexual': (3, 1), 'Homosexual Man': (5, 2), 'Sex Worker, Prostitute': (4, 4), 'Transgender Woman': (3, 3)}",True,True
+5. OASST coverage: any-message hit == hit on concatenated tree text (mismatches),0,0,True,True
+6. nesting: main <= all_terms; African without 'african' <= main,checked,true,True,True

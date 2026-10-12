@@ -1,0 +1,21 @@
+final_id,category,polarity,corpus,edited
+AF004,African - Afro American,SAFE,civil,False
+AF038,African - Afro American,SAFE,civil,False
+AF071,African - Afro American,NOT SAFE,dynahate,False
+AF099,African - Afro American,NOT SAFE,hatexplain,False
+FH004,Female Homosexual,SAFE,mhs,False
+FH034,Female Homosexual,SAFE,hatexplain,False
+FH054,Female Homosexual,NOT SAFE,hatexplain,False
+FH076,Female Homosexual,NOT SAFE,hatexplain,False
+HM036,Homosexual Man,SAFE,civil,True
+HM038,Homosexual Man,SAFE,civil,True
+HM075,Homosexual Man,NOT SAFE,mhs,False
+HM088,Homosexual Man,NOT SAFE,mhs,False
+SW023,"Sex Worker, Prostitute",SAFE,civil,False
+SW042,"Sex Worker, Prostitute",SAFE,civil,False
+SW060,"Sex Worker, Prostitute",NOT SAFE,civil,False
+SW069,"Sex Worker, Prostitute",NOT SAFE,sbic,False
+TW032,Transgender Woman,SAFE,dynahate,True
+TW038,Transgender Woman,SAFE,civil,True
+TW077,Transgender Woman,NOT SAFE,dynahate,False
+TW090,Transgender Woman,NOT SAFE,mhs,True

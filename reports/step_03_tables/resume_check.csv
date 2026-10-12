@@ -1,0 +1,7 @@
+model,session1_scored,session2_scored,session2_skipped,session3_scored,session3_skipped,overlap_s1_s2,note
+base,164,0,164,0,164,0,resumed after a real stop; full re-score differs on 0/164 pairs
+sft,164,0,164,0,164,0,resumed after a real stop; full re-score differs on 0/164 pairs
+sft_dpo,164,0,164,0,164,0,resumed after a real stop; full re-score differs on 0/164 pairs
+sft_ppo,52,112,52,0,164,0,
+sft_kto,52,112,52,0,164,0,
+kto,52,112,52,0,164,0,

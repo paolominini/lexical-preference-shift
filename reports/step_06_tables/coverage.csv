@@ -1,0 +1,5 @@
+check,value
+prefixes scored / 500,500
+NaN or non-finite scores,0
+"scores outside [0, 1]",0
+unique prefix_id,500

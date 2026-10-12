@@ -1,0 +1,26 @@
+set,check,passed,detail
+main,row count,True,24600 (expected 24600)
+main,"no duplicate (prefix_id, model, word)",True,0
+main,no missing pair,True,0
+main,no unexpected pair,True,0
+main,non-finite logp = 0,True,0
+main,logp <= 0,True,0
+main,bos column,True,all True
+main,dtype column,True,all float16
+main,"input_format per model (base raw, aligned chat)",True,
+main,model_repo per model,True,
+main,"n_tokens constant per word (all models, prefixes)",True,0
+main,n_tokens >= 1,True,1
+nobos,row count,True,4100 (expected 4100)
+nobos,"no duplicate (prefix_id, model, word)",True,0
+nobos,no missing pair,True,0
+nobos,no unexpected pair,True,0
+nobos,non-finite logp = 0,True,0
+nobos,logp <= 0,True,0
+nobos,bos column,True,all False
+nobos,dtype column,True,all float16
+nobos,"input_format per model (base raw, aligned chat)",True,
+nobos,model_repo per model,True,
+nobos,"n_tokens constant per word (all models, prefixes)",True,0
+nobos,n_tokens >= 1,True,1
+both,n_tokens Base BOS == Base no-BOS,True,

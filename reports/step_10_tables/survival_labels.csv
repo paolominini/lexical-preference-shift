@@ -1,0 +1,369 @@
+check,subset,result,label
+a,added,H1 SFT,holds
+a,added,H1 SFT-DPO,holds
+a,added,H1 SFT-PPO,holds
+a,added,H1 SFT-KTO,holds
+a,added,H1 KTO (direct),holds
+a,added,H2 Friedman,holds
+a,added,H2 SFT-DPO − SFT,not interpretable
+a,added,H2 SFT-PPO − SFT,not interpretable
+a,added,H2 SFT-KTO − SFT,holds
+a,added,H2 SFT-PPO − SFT-DPO,holds
+a,added,H2 SFT-KTO − SFT-DPO,not interpretable
+a,added,H2 SFT-KTO − SFT-PPO,holds
+a,added,H2 outcome,holds
+a,added,H2-KTO (Direct KTO − SFT-KTO),holds
+a,added,H3 verdict SFT,holds
+a,added,H3 verdict SFT-DPO,holds
+a,added,H3 verdict SFT-PPO,holds
+a,added,H3 verdict SFT-KTO,holds
+a,added,H3 verdict KTO (direct),holds
+a,added,H3 family outcome,holds
+a,added,H3 signs: family Shift > 0 (20 cells),same
+a,added,H3 sign: Direct KTO Transgender Woman < 0,same
+a,added,H3 order: Sex Worker lowest in 4/4 family,same
+a,original,H1 SFT,holds
+a,original,H1 SFT-DPO,holds
+a,original,H1 SFT-PPO,holds
+a,original,H1 SFT-KTO,holds
+a,original,H1 KTO (direct),holds
+a,original,H2 Friedman,holds
+a,original,H2 SFT-DPO − SFT,not interpretable
+a,original,H2 SFT-PPO − SFT,not interpretable
+a,original,H2 SFT-KTO − SFT,holds
+a,original,H2 SFT-PPO − SFT-DPO,holds
+a,original,H2 SFT-KTO − SFT-DPO,not interpretable
+a,original,H2 SFT-KTO − SFT-PPO,holds
+a,original,H2 outcome,holds
+a,original,H2-KTO (Direct KTO − SFT-KTO),holds
+a,original,H3 verdict SFT,changes (do not differ)
+a,original,H3 verdict SFT-DPO,changes (do not differ)
+a,original,H3 verdict SFT-PPO,holds
+a,original,H3 verdict SFT-KTO,changes (do not differ)
+a,original,H3 verdict KTO (direct),holds
+a,original,H3 family outcome,changes (mixed)
+a,original,H3 signs: family Shift > 0 (20 cells),same
+a,original,H3 sign: Direct KTO Transgender Woman < 0,same
+a,original,H3 order: Sex Worker lowest in 4/4 family,same
+b,unedited,H1 SFT,holds
+b,unedited,H1 SFT-DPO,holds
+b,unedited,H1 SFT-PPO,holds
+b,unedited,H1 SFT-KTO,holds
+b,unedited,H1 KTO (direct),holds
+b,unedited,H2 Friedman,holds
+b,unedited,H2 SFT-DPO − SFT,not interpretable
+b,unedited,H2 SFT-PPO − SFT,not interpretable
+b,unedited,H2 SFT-KTO − SFT,holds
+b,unedited,H2 SFT-PPO − SFT-DPO,holds
+b,unedited,H2 SFT-KTO − SFT-DPO,not interpretable
+b,unedited,H2 SFT-KTO − SFT-PPO,holds
+b,unedited,H2 outcome,holds
+b,unedited,H2-KTO (Direct KTO − SFT-KTO),holds
+b,unedited,H3 verdict SFT,holds
+b,unedited,H3 verdict SFT-DPO,holds
+b,unedited,H3 verdict SFT-PPO,holds
+b,unedited,H3 verdict SFT-KTO,holds
+b,unedited,H3 verdict KTO (direct),holds
+b,unedited,H3 family outcome,holds
+b,unedited,H3 signs: family Shift > 0 (20 cells),same
+b,unedited,H3 sign: Direct KTO Transgender Woman < 0,same
+b,unedited,H3 order: Sex Worker lowest in 4/4 family,same
+c,c_escort,H1 SFT,holds
+c,c_escort,H1 SFT-DPO,holds
+c,c_escort,H1 SFT-PPO,holds
+c,c_escort,H1 SFT-KTO,holds
+c,c_escort,H1 KTO (direct),holds
+c,c_escort,H2 Friedman,holds
+c,c_escort,H2 SFT-DPO − SFT,not interpretable
+c,c_escort,H2 SFT-PPO − SFT,not interpretable
+c,c_escort,H2 SFT-KTO − SFT,holds
+c,c_escort,H2 SFT-PPO − SFT-DPO,holds
+c,c_escort,H2 SFT-KTO − SFT-DPO,not interpretable
+c,c_escort,H2 SFT-KTO − SFT-PPO,holds
+c,c_escort,H2 outcome,holds
+c,c_escort,H2-KTO (Direct KTO − SFT-KTO),holds
+c,c_escort,H3 verdict SFT,holds
+c,c_escort,H3 verdict SFT-DPO,holds
+c,c_escort,H3 verdict SFT-PPO,holds
+c,c_escort,H3 verdict SFT-KTO,holds
+c,c_escort,H3 verdict KTO (direct),holds
+c,c_escort,H3 family outcome,holds
+c,c_escort,H3 signs: family Shift > 0 (20 cells),same
+c,c_escort,H3 sign: Direct KTO Transgender Woman < 0,same
+c,c_escort,H3 order: Sex Worker lowest in 4/4 family,same
+c,c_tranny,H1 SFT,holds
+c,c_tranny,H1 SFT-DPO,holds
+c,c_tranny,H1 SFT-PPO,holds
+c,c_tranny,H1 SFT-KTO,holds
+c,c_tranny,H1 KTO (direct),holds
+c,c_tranny,H2 Friedman,holds
+c,c_tranny,H2 SFT-DPO − SFT,not interpretable
+c,c_tranny,H2 SFT-PPO − SFT,not interpretable
+c,c_tranny,H2 SFT-KTO − SFT,holds
+c,c_tranny,H2 SFT-PPO − SFT-DPO,holds
+c,c_tranny,H2 SFT-KTO − SFT-DPO,not interpretable
+c,c_tranny,H2 SFT-KTO − SFT-PPO,holds
+c,c_tranny,H2 outcome,holds
+c,c_tranny,H2-KTO (Direct KTO − SFT-KTO),holds
+c,c_tranny,H3 verdict SFT,holds
+c,c_tranny,H3 verdict SFT-DPO,holds
+c,c_tranny,H3 verdict SFT-PPO,holds
+c,c_tranny,H3 verdict SFT-KTO,holds
+c,c_tranny,H3 verdict KTO (direct),holds
+c,c_tranny,H3 family outcome,holds
+c,c_tranny,H3 signs: family Shift > 0 (20 cells),same
+c,c_tranny,H3 sign: Direct KTO Transgender Woman < 0,same
+c,c_tranny,H3 order: Sex Worker lowest in 4/4 family,same
+c,c_dyke,H1 SFT,holds
+c,c_dyke,H1 SFT-DPO,holds
+c,c_dyke,H1 SFT-PPO,holds
+c,c_dyke,H1 SFT-KTO,holds
+c,c_dyke,H1 KTO (direct),holds
+c,c_dyke,H2 Friedman,holds
+c,c_dyke,H2 SFT-DPO − SFT,not interpretable
+c,c_dyke,H2 SFT-PPO − SFT,not interpretable
+c,c_dyke,H2 SFT-KTO − SFT,holds
+c,c_dyke,H2 SFT-PPO − SFT-DPO,holds
+c,c_dyke,H2 SFT-KTO − SFT-DPO,not interpretable
+c,c_dyke,H2 SFT-KTO − SFT-PPO,holds
+c,c_dyke,H2 outcome,holds
+c,c_dyke,H2-KTO (Direct KTO − SFT-KTO),holds
+c,c_dyke,H3 verdict SFT,holds
+c,c_dyke,H3 verdict SFT-DPO,holds
+c,c_dyke,H3 verdict SFT-PPO,holds
+c,c_dyke,H3 verdict SFT-KTO,holds
+c,c_dyke,H3 verdict KTO (direct),holds
+c,c_dyke,H3 family outcome,holds
+c,c_dyke,H3 signs: family Shift > 0 (20 cells),same
+c,c_dyke,H3 sign: Direct KTO Transgender Woman < 0,same
+c,c_dyke,H3 order: Sex Worker lowest in 4/4 family,same
+c,c_bender,H1 SFT,holds
+c,c_bender,H1 SFT-DPO,holds
+c,c_bender,H1 SFT-PPO,holds
+c,c_bender,H1 SFT-KTO,holds
+c,c_bender,H1 KTO (direct),holds
+c,c_bender,H2 Friedman,holds
+c,c_bender,H2 SFT-DPO − SFT,not interpretable
+c,c_bender,H2 SFT-PPO − SFT,not interpretable
+c,c_bender,H2 SFT-KTO − SFT,holds
+c,c_bender,H2 SFT-PPO − SFT-DPO,holds
+c,c_bender,H2 SFT-KTO − SFT-DPO,not interpretable
+c,c_bender,H2 SFT-KTO − SFT-PPO,holds
+c,c_bender,H2 outcome,holds
+c,c_bender,H2-KTO (Direct KTO − SFT-KTO),holds
+c,c_bender,H3 verdict SFT,holds
+c,c_bender,H3 verdict SFT-DPO,holds
+c,c_bender,H3 verdict SFT-PPO,holds
+c,c_bender,H3 verdict SFT-KTO,holds
+c,c_bender,H3 verdict KTO (direct),holds
+c,c_bender,H3 family outcome,holds
+c,c_bender,H3 signs: family Shift > 0 (20 cells),same
+c,c_bender,H3 sign: Direct KTO Transgender Woman < 0,same
+c,c_bender,H3 order: Sex Worker lowest in 4/4 family,same
+c,c_poof,H1 SFT,holds
+c,c_poof,H1 SFT-DPO,holds
+c,c_poof,H1 SFT-PPO,holds
+c,c_poof,H1 SFT-KTO,holds
+c,c_poof,H1 KTO (direct),holds
+c,c_poof,H2 Friedman,holds
+c,c_poof,H2 SFT-DPO − SFT,not interpretable
+c,c_poof,H2 SFT-PPO − SFT,not interpretable
+c,c_poof,H2 SFT-KTO − SFT,holds
+c,c_poof,H2 SFT-PPO − SFT-DPO,holds
+c,c_poof,H2 SFT-KTO − SFT-DPO,not interpretable
+c,c_poof,H2 SFT-KTO − SFT-PPO,holds
+c,c_poof,H2 outcome,holds
+c,c_poof,H2-KTO (Direct KTO − SFT-KTO),holds
+c,c_poof,H3 verdict SFT,holds
+c,c_poof,H3 verdict SFT-DPO,holds
+c,c_poof,H3 verdict SFT-PPO,holds
+c,c_poof,H3 verdict SFT-KTO,holds
+c,c_poof,H3 verdict KTO (direct),holds
+c,c_poof,H3 family outcome,holds
+c,c_poof,H3 signs: family Shift > 0 (20 cells),same
+c,c_poof,H3 sign: Direct KTO Transgender Woman < 0,same
+c,c_poof,H3 order: Sex Worker lowest in 4/4 family,same
+c,c_nancy,H1 SFT,holds
+c,c_nancy,H1 SFT-DPO,holds
+c,c_nancy,H1 SFT-PPO,holds
+c,c_nancy,H1 SFT-KTO,holds
+c,c_nancy,H1 KTO (direct),holds
+c,c_nancy,H2 Friedman,holds
+c,c_nancy,H2 SFT-DPO − SFT,not interpretable
+c,c_nancy,H2 SFT-PPO − SFT,not interpretable
+c,c_nancy,H2 SFT-KTO − SFT,holds
+c,c_nancy,H2 SFT-PPO − SFT-DPO,holds
+c,c_nancy,H2 SFT-KTO − SFT-DPO,not interpretable
+c,c_nancy,H2 SFT-KTO − SFT-PPO,holds
+c,c_nancy,H2 outcome,holds
+c,c_nancy,H2-KTO (Direct KTO − SFT-KTO),holds
+c,c_nancy,H3 verdict SFT,holds
+c,c_nancy,H3 verdict SFT-DPO,holds
+c,c_nancy,H3 verdict SFT-PPO,holds
+c,c_nancy,H3 verdict SFT-KTO,holds
+c,c_nancy,H3 verdict KTO (direct),holds
+c,c_nancy,H3 family outcome,holds
+c,c_nancy,H3 signs: family Shift > 0 (20 cells),same
+c,c_nancy,H3 sign: Direct KTO Transgender Woman < 0,same
+c,c_nancy,H3 order: Sex Worker lowest in 4/4 family,same
+c,c_coon,H1 SFT,holds
+c,c_coon,H1 SFT-DPO,holds
+c,c_coon,H1 SFT-PPO,holds
+c,c_coon,H1 SFT-KTO,holds
+c,c_coon,H1 KTO (direct),holds
+c,c_coon,H2 Friedman,holds
+c,c_coon,H2 SFT-DPO − SFT,not interpretable
+c,c_coon,H2 SFT-PPO − SFT,not interpretable
+c,c_coon,H2 SFT-KTO − SFT,holds
+c,c_coon,H2 SFT-PPO − SFT-DPO,holds
+c,c_coon,H2 SFT-KTO − SFT-DPO,not interpretable
+c,c_coon,H2 SFT-KTO − SFT-PPO,holds
+c,c_coon,H2 outcome,holds
+c,c_coon,H2-KTO (Direct KTO − SFT-KTO),holds
+c,c_coon,H3 verdict SFT,holds
+c,c_coon,H3 verdict SFT-DPO,holds
+c,c_coon,H3 verdict SFT-PPO,holds
+c,c_coon,H3 verdict SFT-KTO,holds
+c,c_coon,H3 verdict KTO (direct),holds
+c,c_coon,H3 family outcome,holds
+c,c_coon,H3 signs: family Shift > 0 (20 cells),same
+c,c_coon,H3 sign: Direct KTO Transgender Woman < 0,same
+c,c_coon,H3 order: Sex Worker lowest in 4/4 family,same
+c,c_shim,H1 SFT,holds
+c,c_shim,H1 SFT-DPO,holds
+c,c_shim,H1 SFT-PPO,holds
+c,c_shim,H1 SFT-KTO,holds
+c,c_shim,H1 KTO (direct),holds
+c,c_shim,H2 Friedman,holds
+c,c_shim,H2 SFT-DPO − SFT,not interpretable
+c,c_shim,H2 SFT-PPO − SFT,not interpretable
+c,c_shim,H2 SFT-KTO − SFT,holds
+c,c_shim,H2 SFT-PPO − SFT-DPO,holds
+c,c_shim,H2 SFT-KTO − SFT-DPO,not interpretable
+c,c_shim,H2 SFT-KTO − SFT-PPO,holds
+c,c_shim,H2 outcome,holds
+c,c_shim,H2-KTO (Direct KTO − SFT-KTO),holds
+c,c_shim,H3 verdict SFT,holds
+c,c_shim,H3 verdict SFT-DPO,holds
+c,c_shim,H3 verdict SFT-PPO,holds
+c,c_shim,H3 verdict SFT-KTO,holds
+c,c_shim,H3 verdict KTO (direct),holds
+c,c_shim,H3 family outcome,holds
+c,c_shim,H3 signs: family Shift > 0 (20 cells),same
+c,c_shim,H3 sign: Direct KTO Transgender Woman < 0,same
+c,c_shim,H3 order: Sex Worker lowest in 4/4 family,same
+c,c_hoe,H1 SFT,holds
+c,c_hoe,H1 SFT-DPO,holds
+c,c_hoe,H1 SFT-PPO,holds
+c,c_hoe,H1 SFT-KTO,holds
+c,c_hoe,H1 KTO (direct),holds
+c,c_hoe,H2 Friedman,holds
+c,c_hoe,H2 SFT-DPO − SFT,not interpretable
+c,c_hoe,H2 SFT-PPO − SFT,not interpretable
+c,c_hoe,H2 SFT-KTO − SFT,holds
+c,c_hoe,H2 SFT-PPO − SFT-DPO,holds
+c,c_hoe,H2 SFT-KTO − SFT-DPO,not interpretable
+c,c_hoe,H2 SFT-KTO − SFT-PPO,holds
+c,c_hoe,H2 outcome,holds
+c,c_hoe,H2-KTO (Direct KTO − SFT-KTO),holds
+c,c_hoe,H3 verdict SFT,holds
+c,c_hoe,H3 verdict SFT-DPO,holds
+c,c_hoe,H3 verdict SFT-PPO,holds
+c,c_hoe,H3 verdict SFT-KTO,holds
+c,c_hoe,H3 verdict KTO (direct),holds
+c,c_hoe,H3 family outcome,holds
+c,c_hoe,H3 signs: family Shift > 0 (20 cells),same
+c,c_hoe,H3 sign: Direct KTO Transgender Woman < 0,same
+c,c_hoe,H3 order: Sex Worker lowest in 4/4 family,same
+c_extra,c_extra_TW_3token,H1 SFT,holds
+c_extra,c_extra_TW_3token,H1 SFT-DPO,holds
+c_extra,c_extra_TW_3token,H1 SFT-PPO,holds
+c_extra,c_extra_TW_3token,H1 SFT-KTO,holds
+c_extra,c_extra_TW_3token,H1 KTO (direct),changes
+c_extra,c_extra_TW_3token,H2 Friedman,holds
+c_extra,c_extra_TW_3token,H2 SFT-DPO − SFT,not interpretable
+c_extra,c_extra_TW_3token,H2 SFT-PPO − SFT,not interpretable
+c_extra,c_extra_TW_3token,H2 SFT-KTO − SFT,holds
+c_extra,c_extra_TW_3token,H2 SFT-PPO − SFT-DPO,holds
+c_extra,c_extra_TW_3token,H2 SFT-KTO − SFT-DPO,not interpretable
+c_extra,c_extra_TW_3token,H2 SFT-KTO − SFT-PPO,holds
+c_extra,c_extra_TW_3token,H2 outcome,holds
+c_extra,c_extra_TW_3token,H2-KTO (Direct KTO − SFT-KTO),holds
+c_extra,c_extra_TW_3token,H3 verdict SFT,holds
+c_extra,c_extra_TW_3token,H3 verdict SFT-DPO,holds
+c_extra,c_extra_TW_3token,H3 verdict SFT-PPO,holds
+c_extra,c_extra_TW_3token,H3 verdict SFT-KTO,holds
+c_extra,c_extra_TW_3token,H3 verdict KTO (direct),holds
+c_extra,c_extra_TW_3token,H3 family outcome,holds
+c_extra,c_extra_TW_3token,H3 signs: family Shift > 0 (20 cells),same
+c_extra,c_extra_TW_3token,H3 sign: Direct KTO Transgender Woman < 0,same
+c_extra,c_extra_TW_3token,H3 order: Sex Worker lowest in 4/4 family,same
+e,A,H1 SFT,holds
+e,A,H1 SFT-DPO,holds
+e,A,H1 SFT-PPO,holds
+e,A,H1 SFT-KTO,holds
+e,A,H1 KTO (direct),holds
+e,A,H2 Friedman,holds
+e,A,H2 SFT-DPO − SFT,not interpretable
+e,A,H2 SFT-PPO − SFT,not interpretable
+e,A,H2 SFT-KTO − SFT,holds
+e,A,H2 SFT-PPO − SFT-DPO,holds
+e,A,H2 SFT-KTO − SFT-DPO,not interpretable
+e,A,H2 SFT-KTO − SFT-PPO,holds
+e,A,H2 outcome,holds
+e,A,H2-KTO (Direct KTO − SFT-KTO),holds
+e,A,H3 verdict SFT,holds
+e,A,H3 verdict SFT-DPO,holds
+e,A,H3 verdict SFT-PPO,holds
+e,A,H3 verdict SFT-KTO,holds
+e,A,H3 verdict KTO (direct),holds
+e,A,H3 family outcome,holds
+e,A,H3 signs: family Shift > 0 (20 cells),same
+e,A,H3 sign: Direct KTO Transgender Woman < 0,same
+e,A,H3 order: Sex Worker lowest in 4/4 family,same
+e,B,H1 SFT,holds
+e,B,H1 SFT-DPO,holds
+e,B,H1 SFT-PPO,holds
+e,B,H1 SFT-KTO,holds
+e,B,H1 KTO (direct),holds
+e,B,H2 Friedman,holds
+e,B,H2 SFT-DPO − SFT,not interpretable
+e,B,H2 SFT-PPO − SFT,not interpretable
+e,B,H2 SFT-KTO − SFT,holds
+e,B,H2 SFT-PPO − SFT-DPO,holds
+e,B,H2 SFT-KTO − SFT-DPO,not interpretable
+e,B,H2 SFT-KTO − SFT-PPO,holds
+e,B,H2 outcome,holds
+e,B,H2-KTO (Direct KTO − SFT-KTO),holds
+e,B,H3 verdict SFT,holds
+e,B,H3 verdict SFT-DPO,holds
+e,B,H3 verdict SFT-PPO,holds
+e,B,H3 verdict SFT-KTO,holds
+e,B,H3 verdict KTO (direct),holds
+e,B,H3 family outcome,holds
+e,B,H3 signs: family Shift > 0 (20 cells),same
+e,B,H3 sign: Direct KTO Transgender Woman < 0,same
+e,B,H3 order: Sex Worker lowest in 4/4 family,same
+d,base_nobos,H1 SFT,holds
+d,base_nobos,H1 SFT-DPO,holds
+d,base_nobos,H1 SFT-PPO,holds
+d,base_nobos,H1 SFT-KTO,holds
+d,base_nobos,H1 KTO (direct),changes
+d,base_nobos,H2 Friedman,holds (by construction)
+d,base_nobos,H2 SFT-DPO − SFT,holds (by construction)
+d,base_nobos,H2 SFT-PPO − SFT,holds (by construction)
+d,base_nobos,H2 SFT-KTO − SFT,holds (by construction)
+d,base_nobos,H2 SFT-PPO − SFT-DPO,holds (by construction)
+d,base_nobos,H2 SFT-KTO − SFT-DPO,holds (by construction)
+d,base_nobos,H2 SFT-KTO − SFT-PPO,holds (by construction)
+d,base_nobos,H2 outcome,holds (by construction)
+d,base_nobos,H2-KTO (Direct KTO − SFT-KTO),holds (by construction)
+d,base_nobos,H3 verdict SFT,holds
+d,base_nobos,H3 verdict SFT-DPO,holds
+d,base_nobos,H3 verdict SFT-PPO,holds
+d,base_nobos,H3 verdict SFT-KTO,holds
+d,base_nobos,H3 verdict KTO (direct),holds
+d,base_nobos,H3 family outcome,holds
+d,base_nobos,H3 signs: family Shift > 0 (20 cells),same
+d,base_nobos,H3 sign: Direct KTO Transgender Woman < 0,same
+d,base_nobos,H3 order: Sex Worker lowest in 4/4 family,same

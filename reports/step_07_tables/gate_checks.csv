@@ -1,0 +1,7 @@
+check,max_abs_error,tolerance,pass
+prefixes per model == 500,0.0,0.0,True
+"mean D vs S5 summary, 30 cells",7.632783294297951e-17,1e-12,True
+"share D > 0 vs S5 summary, 5 models",0.0,1e-12,True
+"sum of contribution_to_D over both pools vs mean D, 25 cells",4.440892098500626e-16,1e-09,True
+"neutral contributions vs mean delta_pos, 25 cells",2.7755575615628914e-16,1e-09,True
+"derogatory contributions vs -mean delta_neg, 25 cells",4.440892098500626e-16,1e-09,True

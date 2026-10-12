@@ -1,0 +1,37 @@
+variant,measure,dataset,n_categories,rho,wording
+main,A coverage,pooled,5,0.49999999999999994,no clear ordering
+main,B derogatory ratio,pooled,5,0.19999999999999998,no clear ordering
+main,B neutral ratio (control),pooled,5,0.09999999999999999,no clear ordering
+main,A coverage,hh,5,0.09999999999999999,no clear ordering
+main,B derogatory ratio,hh,5,0.39999999999999997,no clear ordering
+main,B neutral ratio (control),hh,5,-0.49999999999999994,no clear ordering
+main,A coverage,shp,5,0.7,in the expected direction
+main,B derogatory ratio,shp,4,-0.39999999999999997,no clear ordering
+main,B neutral ratio (control),shp,5,0.3,no clear ordering
+main,A coverage,oasst,5,0.49999999999999994,no clear ordering
+main,B derogatory ratio,oasst,0,,undefined
+main,B neutral ratio (control),oasst,3,1.0,in the expected direction
+all_terms,A coverage,pooled,5,0.6,no clear ordering
+all_terms,B derogatory ratio,pooled,5,0.0,no clear ordering
+all_terms,B neutral ratio (control),pooled,5,0.09999999999999999,no clear ordering
+all_terms,A coverage,hh,5,0.3,no clear ordering
+all_terms,B derogatory ratio,hh,5,0.39999999999999997,no clear ordering
+all_terms,B neutral ratio (control),hh,5,-0.3,no clear ordering
+all_terms,A coverage,shp,5,0.7,in the expected direction
+all_terms,B derogatory ratio,shp,5,-0.09999999999999999,no clear ordering
+all_terms,B neutral ratio (control),shp,5,0.3,no clear ordering
+all_terms,A coverage,oasst,5,0.6155870112510925,no clear ordering
+all_terms,B derogatory ratio,oasst,4,0.7999999999999999,in the expected direction
+all_terms,B neutral ratio (control),oasst,3,1.0,in the expected direction
+af_no_african,A coverage,pooled,5,0.49999999999999994,no clear ordering
+af_no_african,B derogatory ratio,pooled,5,0.19999999999999998,no clear ordering
+af_no_african,B neutral ratio (control),pooled,5,0.09999999999999999,no clear ordering
+af_no_african,A coverage,hh,5,0.09999999999999999,no clear ordering
+af_no_african,B derogatory ratio,hh,5,0.39999999999999997,no clear ordering
+af_no_african,B neutral ratio (control),hh,5,-0.49999999999999994,no clear ordering
+af_no_african,A coverage,shp,5,0.7,in the expected direction
+af_no_african,B derogatory ratio,shp,4,-0.39999999999999997,no clear ordering
+af_no_african,B neutral ratio (control),shp,5,0.3,no clear ordering
+af_no_african,A coverage,oasst,5,0.49999999999999994,no clear ordering
+af_no_african,B derogatory ratio,oasst,0,,undefined
+af_no_african,B neutral ratio (control),oasst,3,1.0,in the expected direction

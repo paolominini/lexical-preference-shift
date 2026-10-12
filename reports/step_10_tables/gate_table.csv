@@ -1,0 +1,24 @@
+result,a,b,c,c_extra,d,e
+H1 SFT,holds 2/2,holds,holds 9/9,holds,holds,holds 2/2
+H1 SFT-DPO,holds 2/2,holds,holds 9/9,holds,holds,holds 2/2
+H1 SFT-PPO,holds 2/2,holds,holds 9/9,holds,holds,holds 2/2
+H1 SFT-KTO,holds 2/2,holds,holds 9/9,holds,holds,holds 2/2
+H1 KTO (direct),holds 2/2,holds,holds 9/9,changes,changes,holds 2/2
+H2 Friedman,holds 2/2,holds,holds 9/9,holds,holds (by construction),holds 2/2
+H2 SFT-DPO − SFT,not interpretable 2/2,not interpretable,not interpretable 9/9,not interpretable,holds (by construction),not interpretable 2/2
+H2 SFT-PPO − SFT,not interpretable 2/2,not interpretable,not interpretable 9/9,not interpretable,holds (by construction),not interpretable 2/2
+H2 SFT-KTO − SFT,holds 2/2,holds,holds 9/9,holds,holds (by construction),holds 2/2
+H2 SFT-PPO − SFT-DPO,holds 2/2,holds,holds 9/9,holds,holds (by construction),holds 2/2
+H2 SFT-KTO − SFT-DPO,not interpretable 2/2,not interpretable,not interpretable 9/9,not interpretable,holds (by construction),not interpretable 2/2
+H2 SFT-KTO − SFT-PPO,holds 2/2,holds,holds 9/9,holds,holds (by construction),holds 2/2
+H2 outcome,holds 2/2,holds,holds 9/9,holds,holds (by construction),holds 2/2
+H2-KTO (Direct KTO − SFT-KTO),holds 2/2,holds,holds 9/9,holds,holds (by construction),holds 2/2
+H3 verdict SFT,changes (do not differ) 1/2 (original); holds 1/2,holds,holds 9/9,holds,holds,holds 2/2
+H3 verdict SFT-DPO,changes (do not differ) 1/2 (original); holds 1/2,holds,holds 9/9,holds,holds,holds 2/2
+H3 verdict SFT-PPO,holds 2/2,holds,holds 9/9,holds,holds,holds 2/2
+H3 verdict SFT-KTO,changes (do not differ) 1/2 (original); holds 1/2,holds,holds 9/9,holds,holds,holds 2/2
+H3 verdict KTO (direct),holds 2/2,holds,holds 9/9,holds,holds,holds 2/2
+H3 family outcome,changes (mixed) 1/2 (original); holds 1/2,holds,holds 9/9,holds,holds,holds 2/2
+H3 signs: family Shift > 0 (20 cells),same 2/2,same,same 9/9,same,same,same 2/2
+H3 sign: Direct KTO Transgender Woman < 0,same 2/2,same,same 9/9,same,same,same 2/2
+H3 order: Sex Worker lowest in 4/4 family,same 2/2,same,same 9/9,same,same,same 2/2

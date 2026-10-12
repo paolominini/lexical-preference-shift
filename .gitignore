@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.pytest_cache/
+.ipynb_checkpoints/
+# Hugging Face cache, if paths.models_dir points inside the repository
+hf_cache/
+models/
+.cache/
+# part files of a scoring run (running or interrupted)
+results/scores_*/
+# outputs of a new scoring run: sent by email, not committed
+results/scores_*.parquet
+results/*_2.8b*
+results/*_6.9b*
+results/*_12b*
+results/figures/
+risultati_*.zip

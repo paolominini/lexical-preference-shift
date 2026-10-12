@@ -1,0 +1,9 @@
+check,max_abs_error,tolerance,pass
+"1. 7 pairwise mean D vs S7 mean D_{M1,Base} - mean D_{M2,Base} (h1_tests.csv)",8.326672684688674e-17,1e-12,True
+"2a. delta_pos - delta_neg - D_{M1,M2}, every prefix, 7 pairs",1.7763568394002505e-15,1e-09,True
+"2b. components from logp vs delta_pos/neg_M1 - delta_pos/neg_M2 (Base cancels), 7 pairs",3.1086244689504383e-15,1e-09,True
+3a. Friedman chi2 on Delta vs on D,0.0,1e-09,True
+3b. Friedman p on Delta vs on D,0.0,1e-12,True
+"4. aligned Delta, Base-without-BOS file vs main file (max abs diff)",0.0,0.0,True
+5a. prefixes per model == 500 (models failing),0.0,0.0,True
+5b. same prefix order in Delta and Base-without-BOS tables (mismatches),0.0,0.0,True

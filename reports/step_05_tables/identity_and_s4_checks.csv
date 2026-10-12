@@ -1,0 +1,5 @@
+check,max_abs_error
+"identity D = delta_pos - delta_neg, main (2500 rows)",5.551115123125783e-15
+"identity D = delta_pos - delta_neg, no-BOS (2500 rows)",4.246603069191224e-15
+"mean D vs S4 table (BOS), all model x category cells",7.632783294297951e-17
+"mean D vs S4 table (no BOS), all model x category cells",8.326672684688674e-17

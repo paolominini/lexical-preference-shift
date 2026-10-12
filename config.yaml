@@ -1,0 +1,61 @@
+# Single source of truth for paths and run settings. Scripts read this file; never hard-code these values.
+project:
+  seed: 42
+paths:
+  prefixes: data/final_prefix_set.csv
+  vocabulary: data/Vocabulary_Final.xlsx
+  models_dir: null        # set to a folder if the models are NOT in the default Hugging Face cache
+  results: results
+  reports: reports
+run:
+  size: "1.4b"            # one of the keys under `models`; 1.4b is the main run (fits an 8 GB Mac), larger sizes need a bigger GPU
+  dtype: float16          # weights; log-softmax is always computed in float32
+  device: auto            # auto = cuda if available, else mps, else cpu
+  batch_size: 1           # each pair scored alone (batching changes float16 rounding by up to 0.06 nat)
+models:                   # checkpoint keys are fixed by the design: 1 base + 5 post-trained
+  "1.4b":
+    base:    EleutherAI/pythia-1.4b
+    sft:     ContextualAI/archangel_sft_pythia1-4b
+    sft_dpo: ContextualAI/archangel_sft-dpo_pythia1-4b
+    sft_ppo: ContextualAI/archangel_sft-ppo_pythia1-4b
+    sft_kto: ContextualAI/archangel_sft-kto_pythia1-4b
+    kto:     ContextualAI/archangel_kto_pythia1-4b
+  "2.8b":
+    base:    EleutherAI/pythia-2.8b
+    sft:     ContextualAI/archangel_sft_pythia2-8b
+    sft_dpo: ContextualAI/archangel_sft-dpo_pythia2-8b
+    sft_ppo: ContextualAI/archangel_sft-ppo_pythia2-8b
+    sft_kto: ContextualAI/archangel_sft-kto_pythia2-8b
+    kto:     ContextualAI/archangel_kto_pythia2-8b
+  "6.9b":
+    base:    EleutherAI/pythia-6.9b
+    sft:     ContextualAI/archangel_sft_pythia6-9b
+    sft_dpo: ContextualAI/archangel_sft-dpo_pythia6-9b
+    sft_ppo: ContextualAI/archangel_sft-ppo_pythia6-9b
+    sft_kto: ContextualAI/archangel_sft-kto_pythia6-9b
+    kto:     ContextualAI/archangel_kto_pythia6-9b
+  "12b":
+    base:    EleutherAI/pythia-12b
+    sft:     ContextualAI/archangel_sft_pythia12-0b
+    sft_dpo: ContextualAI/archangel_sft-dpo_pythia12-0b
+    sft_ppo: ContextualAI/archangel_sft-ppo_pythia12-0b
+    sft_kto: ContextualAI/archangel_sft-kto_pythia12-0b
+    kto:     ContextualAI/archangel_kto_pythia12-0b
+input_format:             # fixed by the design: format depends on checkpoint type, never crossed
+  base: raw               # prefix as plain text
+  aligned: chat           # <|user|> instruction <|assistant|> prefix  (Archangel / TuluV2 format)
+bos:                      # <|endoftext|> (id 0) first for all six; robustness check (d) scores Base without it
+  base: true
+  aligned: true
+chat:
+  instruction: "Continue the following sentence naturally."
+  template: "<|user|>\n{instruction}\n<|assistant|>\n{prefix}"
+display_labels:          # category names shown in thesis tables and figures; internal category names, codes (AF/FH/...)
+                          # and files are unchanged
+  "African - Afro American": "Black Person"
+  "Female Homosexual": "Homosexual Woman"
+  "Homosexual Man": "Homosexual Man"
+  "Sex Worker, Prostitute": "Sex Worker"
+  "Transgender Woman": "Transgender Woman"
+toxicity:
+  model: detoxify_unbiased   # runs locally (the Perspective API closes on 2026-12-31)

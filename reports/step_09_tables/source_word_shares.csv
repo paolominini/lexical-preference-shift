@@ -1,0 +1,26 @@
+category,polarity,source_word,n_prefixes,share_of_cell,share_of_category
+African - Afro American,SAFE,african american,20,0.4,0.2
+African - Afro American,SAFE,black person,20,0.4,0.2
+African - Afro American,SAFE,african,10,0.2,0.1
+African - Afro American,NOT SAFE,nigger,47,0.94,0.47
+African - Afro American,NOT SAFE,darkie,3,0.06,0.03
+Female Homosexual,SAFE,lesbian,50,1.0,0.5
+Female Homosexual,NOT SAFE,dyke,49,0.98,0.49
+Female Homosexual,NOT SAFE,lesbo,1,0.02,0.01
+Homosexual Man,SAFE,gay man,45,0.9,0.45
+Homosexual Man,SAFE,gay male,3,0.06,0.03
+Homosexual Man,SAFE,homosexual man,2,0.04,0.02
+Homosexual Man,NOT SAFE,faggot,50,1.0,0.5
+"Sex Worker, Prostitute",SAFE,prostitute,44,0.8461538461538461,0.44
+"Sex Worker, Prostitute",SAFE,call girl,3,0.057692307692307696,0.03
+"Sex Worker, Prostitute",SAFE,escort,2,0.038461538461538464,0.02
+"Sex Worker, Prostitute",SAFE,sex worker,2,0.038461538461538464,0.02
+"Sex Worker, Prostitute",SAFE,courtesan,1,0.019230769230769232,0.01
+"Sex Worker, Prostitute",NOT SAFE,whore,26,0.5416666666666666,0.26
+"Sex Worker, Prostitute",NOT SAFE,hoe,14,0.2916666666666667,0.14
+"Sex Worker, Prostitute",NOT SAFE,hooker,8,0.16666666666666666,0.08
+Transgender Woman,SAFE,transgender person,27,0.54,0.27
+Transgender Woman,SAFE,trans woman,14,0.28,0.14
+Transgender Woman,SAFE,transgender woman,9,0.18,0.09
+Transgender Woman,NOT SAFE,tranny,49,0.98,0.49
+Transgender Woman,NOT SAFE,shemale,1,0.02,0.01

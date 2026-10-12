@@ -1,0 +1,14 @@
+check,max_abs_error,tolerance,pass,blocking
+1a. 25 Shift_M(c) means vs S5 summary_model_category mean_D,5.551115123125783e-17,1e-12,True,True
+1b. 25 Shift_M(c) means vs S7 components_vs_base mean_D,5.551115123125783e-17,1e-12,True,True
+1c. 25 no-BOS means vs S5 D_model_category_main_vs_nobos,8.326672684688674e-17,1e-12,True,True
+1d. no-BOS - BOS offset: max spread across the five models within a category,3.3306690738754696e-16,1e-12,True,True
+"2a. prefix ids: delta (aligned, Base) vs toxicity vs prefix set, mismatches",0.0,0.0,True,True
+"2b. category labels delta = toxicity = prefix set, mismatches",0.0,0.0,True,True
+"2c. source polarity toxicity = prefix set, mismatches",0.0,0.0,True,True
+"2d. missing y, y_nobos or toxicity",0.0,0.0,True,True
+2e. cells (model x category) with n != 100,0.0,0.0,True,True
+"3a. ANCOVA category F: numpy RSS vs statsmodels Type II, 5 models",4.973799150320701e-14,1e-09,True,True
+"3b. KW H: textbook formula vs scipy, 5 models",0.0,1e-09,True,True
+"3c. S6 statement reproduced: category x polarity cells NOT spanning toxicity (<0.05 and >0.9) [finding, non-blocking]",1.0,0.0,False,False
+3d. (added after 3c) cells whose toxicity range does NOT contain the evaluation point (mean toxicity),0.0,0.0,True,True

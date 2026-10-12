@@ -1,0 +1,527 @@
+kind,dataset,revision,variant,category,polarity,role,term,value
+coverage_hits,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,af_no_african,African - Afro American,,,,1505
+coverage_hits,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,all_terms,African - Afro American,,,,2014
+coverage_hits,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,all_terms,Female Homosexual,,,,387
+coverage_hits,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,all_terms,Homosexual Man,,,,470
+coverage_hits,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,all_terms,"Sex Worker, Prostitute",,,,502
+coverage_hits,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,all_terms,Transgender Woman,,,,150
+coverage_hits,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,main,African - Afro American,,,,1989
+coverage_hits,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,main,Female Homosexual,,,,367
+coverage_hits,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,main,Homosexual Man,,,,359
+coverage_hits,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,main,"Sex Worker, Prostitute",,,,405
+coverage_hits,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,main,Transgender Woman,,,,134
+coverage_hits,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,af_no_african,African - Afro American,,,,11
+coverage_hits,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,all_terms,African - Afro American,,,,49
+coverage_hits,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,all_terms,Female Homosexual,,,,11
+coverage_hits,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,all_terms,Homosexual Man,,,,11
+coverage_hits,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,all_terms,"Sex Worker, Prostitute",,,,6
+coverage_hits,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,all_terms,Transgender Woman,,,,0
+coverage_hits,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,main,African - Afro American,,,,47
+coverage_hits,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,main,Female Homosexual,,,,9
+coverage_hits,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,main,Homosexual Man,,,,5
+coverage_hits,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,main,"Sex Worker, Prostitute",,,,1
+coverage_hits,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,main,Transgender Woman,,,,0
+coverage_hits,shp,e94b5f32602712d78ed494fe79105b1959396686,af_no_african,African - Afro American,,,,503
+coverage_hits,shp,e94b5f32602712d78ed494fe79105b1959396686,all_terms,African - Afro American,,,,823
+coverage_hits,shp,e94b5f32602712d78ed494fe79105b1959396686,all_terms,Female Homosexual,,,,258
+coverage_hits,shp,e94b5f32602712d78ed494fe79105b1959396686,all_terms,Homosexual Man,,,,422
+coverage_hits,shp,e94b5f32602712d78ed494fe79105b1959396686,all_terms,"Sex Worker, Prostitute",,,,215
+coverage_hits,shp,e94b5f32602712d78ed494fe79105b1959396686,all_terms,Transgender Woman,,,,173
+coverage_hits,shp,e94b5f32602712d78ed494fe79105b1959396686,main,African - Afro American,,,,816
+coverage_hits,shp,e94b5f32602712d78ed494fe79105b1959396686,main,Female Homosexual,,,,253
+coverage_hits,shp,e94b5f32602712d78ed494fe79105b1959396686,main,Homosexual Man,,,,241
+coverage_hits,shp,e94b5f32602712d78ed494fe79105b1959396686,main,"Sex Worker, Prostitute",,,,139
+coverage_hits,shp,e94b5f32602712d78ed494fe79105b1959396686,main,Transgender Woman,,,,153
+meta,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,comparisons_usable,160800
+meta,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,differs_before_final,312
+meta,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,identical_final_turns,740
+meta,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,pairs,160800
+meta,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,comparisons_usable,7851
+meta,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,concat_check_mismatches,0
+meta,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,en_assistant_null_rank_dropped,2040
+meta,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,en_assistant_replies,24083
+meta,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,rows,84437
+meta,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,used_replies_deleted,78
+meta,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,comments_in_units,233408
+meta,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,comparisons_usable,348690
+meta,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,pairs,348718
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,all_terms,African - Afro American,NOT SAFE,chosen,,90
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,all_terms,African - Afro American,NOT SAFE,rejected,,333
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,all_terms,African - Afro American,SAFE,chosen,,864
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,all_terms,African - Afro American,SAFE,rejected,,1023
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,all_terms,Female Homosexual,NOT SAFE,chosen,,9
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,all_terms,Female Homosexual,NOT SAFE,rejected,,23
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,all_terms,Female Homosexual,SAFE,chosen,,132
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,all_terms,Female Homosexual,SAFE,rejected,,188
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,all_terms,Homosexual Man,NOT SAFE,chosen,,66
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,all_terms,Homosexual Man,NOT SAFE,rejected,,73
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,all_terms,Homosexual Man,SAFE,chosen,,105
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,all_terms,Homosexual Man,SAFE,rejected,,140
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,all_terms,"Sex Worker, Prostitute",NOT SAFE,chosen,,52
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,all_terms,"Sex Worker, Prostitute",NOT SAFE,rejected,,116
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,all_terms,"Sex Worker, Prostitute",SAFE,chosen,,117
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,all_terms,"Sex Worker, Prostitute",SAFE,rejected,,150
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,all_terms,Transgender Woman,NOT SAFE,chosen,,5
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,all_terms,Transgender Woman,NOT SAFE,rejected,,16
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,all_terms,Transgender Woman,SAFE,chosen,,48
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,all_terms,Transgender Woman,SAFE,rejected,,63
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,main,African - Afro American,NOT SAFE,chosen,,73
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,main,African - Afro American,NOT SAFE,rejected,,321
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,main,African - Afro American,SAFE,chosen,,864
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,main,African - Afro American,SAFE,rejected,,1023
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,main,Female Homosexual,NOT SAFE,chosen,,2
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,main,Female Homosexual,NOT SAFE,rejected,,5
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,main,Female Homosexual,SAFE,chosen,,132
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,main,Female Homosexual,SAFE,rejected,,188
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,main,Homosexual Man,NOT SAFE,chosen,,27
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,main,Homosexual Man,NOT SAFE,rejected,,40
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,main,Homosexual Man,SAFE,chosen,,105
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,main,Homosexual Man,SAFE,rejected,,140
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,main,"Sex Worker, Prostitute",NOT SAFE,chosen,,42
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,main,"Sex Worker, Prostitute",NOT SAFE,rejected,,99
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,main,"Sex Worker, Prostitute",SAFE,chosen,,93
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,main,"Sex Worker, Prostitute",SAFE,rejected,,123
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,main,Transgender Woman,NOT SAFE,chosen,,1
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,main,Transgender Woman,NOT SAFE,rejected,,4
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,main,Transgender Woman,SAFE,chosen,,48
+response_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,main,Transgender Woman,SAFE,rejected,,63
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,all_terms,African - Afro American,NOT SAFE,chosen,,1
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,all_terms,African - Afro American,NOT SAFE,rejected,,4
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,all_terms,African - Afro American,SAFE,chosen,,46
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,all_terms,African - Afro American,SAFE,rejected,,38
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,all_terms,Female Homosexual,NOT SAFE,chosen,,1
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,all_terms,Female Homosexual,NOT SAFE,rejected,,0
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,all_terms,Female Homosexual,SAFE,chosen,,7
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,all_terms,Female Homosexual,SAFE,rejected,,2
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,all_terms,Homosexual Man,NOT SAFE,chosen,,1
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,all_terms,Homosexual Man,NOT SAFE,rejected,,3
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,all_terms,Homosexual Man,SAFE,chosen,,3
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,all_terms,Homosexual Man,SAFE,rejected,,2
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,all_terms,"Sex Worker, Prostitute",NOT SAFE,chosen,,1
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,all_terms,"Sex Worker, Prostitute",NOT SAFE,rejected,,1
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,all_terms,"Sex Worker, Prostitute",SAFE,chosen,,0
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,all_terms,"Sex Worker, Prostitute",SAFE,rejected,,0
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,all_terms,Transgender Woman,NOT SAFE,chosen,,0
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,all_terms,Transgender Woman,NOT SAFE,rejected,,0
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,all_terms,Transgender Woman,SAFE,chosen,,0
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,all_terms,Transgender Woman,SAFE,rejected,,0
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,main,African - Afro American,NOT SAFE,chosen,,0
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,main,African - Afro American,NOT SAFE,rejected,,0
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,main,African - Afro American,SAFE,chosen,,46
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,main,African - Afro American,SAFE,rejected,,38
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,main,Female Homosexual,NOT SAFE,chosen,,0
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,main,Female Homosexual,NOT SAFE,rejected,,0
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,main,Female Homosexual,SAFE,chosen,,7
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,main,Female Homosexual,SAFE,rejected,,2
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,main,Homosexual Man,NOT SAFE,chosen,,0
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,main,Homosexual Man,NOT SAFE,rejected,,0
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,main,Homosexual Man,SAFE,chosen,,3
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,main,Homosexual Man,SAFE,rejected,,2
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,main,"Sex Worker, Prostitute",NOT SAFE,chosen,,0
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,main,"Sex Worker, Prostitute",NOT SAFE,rejected,,0
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,main,"Sex Worker, Prostitute",SAFE,chosen,,0
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,main,"Sex Worker, Prostitute",SAFE,rejected,,0
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,main,Transgender Woman,NOT SAFE,chosen,,0
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,main,Transgender Woman,NOT SAFE,rejected,,0
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,main,Transgender Woman,SAFE,chosen,,0
+response_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,main,Transgender Woman,SAFE,rejected,,0
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,all_terms,African - Afro American,NOT SAFE,chosen,,63
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,all_terms,African - Afro American,NOT SAFE,rejected,,34
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,all_terms,African - Afro American,SAFE,chosen,,2964
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,all_terms,African - Afro American,SAFE,rejected,,1524
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,all_terms,Female Homosexual,NOT SAFE,chosen,,11
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,all_terms,Female Homosexual,NOT SAFE,rejected,,0
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,all_terms,Female Homosexual,SAFE,chosen,,965
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,all_terms,Female Homosexual,SAFE,rejected,,424
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,all_terms,Homosexual Man,NOT SAFE,chosen,,529
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,all_terms,Homosexual Man,NOT SAFE,rejected,,296
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,all_terms,Homosexual Man,SAFE,chosen,,849
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,all_terms,Homosexual Man,SAFE,rejected,,377
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,all_terms,"Sex Worker, Prostitute",NOT SAFE,chosen,,107
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,all_terms,"Sex Worker, Prostitute",NOT SAFE,rejected,,79
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,all_terms,"Sex Worker, Prostitute",SAFE,chosen,,502
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,all_terms,"Sex Worker, Prostitute",SAFE,rejected,,251
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,all_terms,Transgender Woman,NOT SAFE,chosen,,60
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,all_terms,Transgender Woman,NOT SAFE,rejected,,32
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,all_terms,Transgender Woman,SAFE,chosen,,1153
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,all_terms,Transgender Woman,SAFE,rejected,,501
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,main,African - Afro American,NOT SAFE,chosen,,62
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,main,African - Afro American,NOT SAFE,rejected,,32
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,main,African - Afro American,SAFE,chosen,,2964
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,main,African - Afro American,SAFE,rejected,,1524
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,main,Female Homosexual,NOT SAFE,chosen,,1
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,main,Female Homosexual,NOT SAFE,rejected,,0
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,main,Female Homosexual,SAFE,chosen,,965
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,main,Female Homosexual,SAFE,rejected,,424
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,main,Homosexual Man,NOT SAFE,chosen,,37
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,main,Homosexual Man,NOT SAFE,rejected,,23
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,main,Homosexual Man,SAFE,chosen,,849
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,main,Homosexual Man,SAFE,rejected,,377
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,main,"Sex Worker, Prostitute",NOT SAFE,chosen,,82
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,main,"Sex Worker, Prostitute",NOT SAFE,rejected,,58
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,main,"Sex Worker, Prostitute",SAFE,chosen,,370
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,main,"Sex Worker, Prostitute",SAFE,rejected,,170
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,main,Transgender Woman,NOT SAFE,chosen,,0
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,main,Transgender Woman,NOT SAFE,rejected,,1
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,main,Transgender Woman,SAFE,chosen,,1153
+response_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,main,Transgender Woman,SAFE,rejected,,501
+response_words,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,,9160203
+response_words,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,,8714984
+response_words,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,,1247144
+response_words,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,,858236
+response_words,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,,39145200
+response_words,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,,23694763
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,african,566
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,african american,267
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,bender,5
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,black person,298
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,call girl,1
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,coon,17
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,courtesan,2
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,darkie,0
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,doxy,0
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,dyke,7
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,escort,24
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,faggot,27
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,gammat,0
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,gay male,5
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,gay man,26
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,harlot,0
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,he-she,0
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,hoe,10
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,homosexual,44
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,homosexual man,1
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,hooker,7
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,kaffir,13
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,ladyboy,1
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,lesbian,58
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,lesbo,2
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,munt,0
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,nancy,32
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,nigger,60
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,poof,2
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,prostitute,72
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,queer,30
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,sex worker,18
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,shemale,0
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,shim,4
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,tranny,0
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,trans woman,7
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,transgender person,37
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,transgender woman,4
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,chosen,whore,35
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,african,573
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,african american,266
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,bender,3
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,black person,450
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,call girl,6
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,coon,12
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,courtesan,0
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,darkie,5
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,doxy,0
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,dyke,18
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,escort,27
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,faggot,40
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,gammat,0
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,gay male,4
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,gay man,31
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,harlot,1
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,he-she,1
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,hoe,17
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,homosexual,69
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,homosexual man,2
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,hooker,9
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,kaffir,18
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,ladyboy,2
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,lesbian,83
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,lesbo,5
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,munt,0
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,nancy,30
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,nigger,298
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,poof,0
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,prostitute,73
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,queer,36
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,sex worker,44
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,shemale,1
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,shim,3
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,tranny,9
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,trans woman,18
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,transgender person,37
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,transgender woman,8
+term_occurrences,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,rejected,whore,89
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,african,46
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,african american,9
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,bender,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,black person,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,call girl,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,coon,1
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,courtesan,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,darkie,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,doxy,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,dyke,1
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,escort,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,faggot,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,gammat,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,gay male,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,gay man,1
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,harlot,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,he-she,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,hoe,1
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,homosexual,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,homosexual man,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,hooker,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,kaffir,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,ladyboy,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,lesbian,5
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,lesbo,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,munt,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,nancy,1
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,nigger,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,poof,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,prostitute,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,queer,2
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,sex worker,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,shemale,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,shim,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,tranny,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,trans woman,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,transgender person,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,transgender woman,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,chosen,whore,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,african,38
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,african american,14
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,bender,2
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,black person,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,call girl,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,coon,4
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,courtesan,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,darkie,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,doxy,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,dyke,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,escort,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,faggot,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,gammat,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,gay male,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,gay man,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,harlot,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,he-she,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,hoe,1
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,homosexual,1
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,homosexual man,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,hooker,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,kaffir,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,ladyboy,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,lesbian,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,lesbo,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,munt,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,nancy,1
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,nigger,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,poof,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,prostitute,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,queer,1
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,sex worker,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,shemale,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,shim,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,tranny,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,trans woman,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,transgender person,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,transgender woman,0
+term_occurrences,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,rejected,whore,0
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,african,1364
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,african american,481
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,bender,308
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,black person,1600
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,call girl,6
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,coon,1
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,courtesan,0
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,darkie,0
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,doxy,0
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,dyke,10
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,escort,132
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,faggot,37
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,gammat,0
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,gay male,9
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,gay man,158
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,harlot,3
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,he-she,0
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,hoe,25
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,homosexual,227
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,homosexual man,6
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,hooker,50
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,kaffir,26
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,ladyboy,0
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,lesbian,283
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,lesbo,1
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,munt,0
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,nancy,100
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,nigger,36
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,poof,84
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,prostitute,219
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,queer,455
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,sex worker,145
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,shemale,0
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,shim,50
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,tranny,10
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,trans woman,832
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,transgender person,282
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,transgender woman,39
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,chosen,whore,29
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,african,713
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,african american,215
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,bender,163
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,black person,811
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,call girl,1
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,coon,2
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,courtesan,4
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,darkie,2
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,doxy,0
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,dyke,0
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,escort,81
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,faggot,23
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,gammat,0
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,gay male,1
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,gay man,60
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,harlot,9
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,he-she,0
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,hoe,21
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,homosexual,170
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,homosexual man,2
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,hooker,29
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,kaffir,19
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,ladyboy,0
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,lesbian,108
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,lesbo,0
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,munt,0
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,nancy,70
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,nigger,11
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,poof,40
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,prostitute,84
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,queer,146
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,sex worker,81
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,shemale,1
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,shim,14
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,tranny,17
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,trans woman,343
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,transgender person,141
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,transgender woman,17
+term_occurrences,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,rejected,whore,20
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,african,1016
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,african american,491
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,bender,25
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,black person,870
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,call girl,13
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,coon,34
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,courtesan,4
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,darkie,9
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,doxy,0
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,dyke,32
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,escort,55
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,faggot,107
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,gammat,0
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,gay male,6
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,gay man,55
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,harlot,1
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,he-she,1
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,hoe,77
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,homosexual,155
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,homosexual man,6
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,hooker,52
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,kaffir,29
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,ladyboy,9
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,lesbian,156
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,lesbo,11
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,munt,0
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,nancy,86
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,nigger,312
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,poof,4
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,prostitute,189
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,queer,95
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,sex worker,62
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,shemale,3
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,shim,13
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,tranny,7
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,trans woman,37
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,transgender person,92
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,transgender woman,15
+term_units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,whore,169
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,african,44
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,african american,8
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,bender,2
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,black person,2
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,call girl,0
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,coon,2
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,courtesan,0
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,darkie,0
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,doxy,0
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,dyke,2
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,escort,0
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,faggot,0
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,gammat,0
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,gay male,0
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,gay man,1
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,harlot,0
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,he-she,0
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,hoe,5
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,homosexual,1
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,homosexual man,0
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,hooker,0
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,kaffir,0
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,ladyboy,0
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,lesbian,5
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,lesbo,0
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,munt,0
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,nancy,3
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,nigger,2
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,poof,1
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,prostitute,0
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,queer,3
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,sex worker,0
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,shemale,0
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,shim,0
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,tranny,0
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,trans woman,0
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,transgender person,0
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,transgender woman,0
+term_units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,whore,1
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,african,543
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,african american,200
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,bender,84
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,black person,360
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,call girl,2
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,coon,7
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,courtesan,1
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,darkie,1
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,doxy,0
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,dyke,7
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,escort,71
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,faggot,16
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,gammat,0
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,gay male,4
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,gay man,63
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,harlot,3
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,he-she,0
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,hoe,13
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,homosexual,108
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,homosexual man,3
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,hooker,25
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,kaffir,9
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,ladyboy,0
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,lesbian,90
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,lesbo,2
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,munt,0
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,nancy,62
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,nigger,11
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,poof,37
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,prostitute,63
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,queer,91
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,sex worker,40
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,shemale,1
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,shim,9
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,tranny,12
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,trans woman,98
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,transgender person,91
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,transgender woman,21
+term_units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,whore,27
+units,hh,09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa,,,,,,160800
+units,oasst,fdf72ae0827c1cda404aff25b6603abec9e3399b,,,,,,3574
+units,shp,e94b5f32602712d78ed494fe79105b1959396686,,,,,,38993

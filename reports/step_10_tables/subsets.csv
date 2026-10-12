@@ -1,0 +1,109 @@
+check,subset,category,source_polarity,n_prefixes,n_edited,split_seed
+full,all,ALL,ALL,500,77,
+full,all,ALL,NOT SAFE,248,20,
+full,all,ALL,SAFE,252,57,
+full,all,African - Afro American,ALL,100,0,
+full,all,African - Afro American,NOT SAFE,50,0,
+full,all,African - Afro American,SAFE,50,0,
+full,all,Female Homosexual,ALL,100,4,
+full,all,Female Homosexual,NOT SAFE,50,4,
+full,all,Female Homosexual,SAFE,50,0,
+full,all,Homosexual Man,ALL,100,24,
+full,all,Homosexual Man,NOT SAFE,50,0,
+full,all,Homosexual Man,SAFE,50,24,
+full,all,"Sex Worker, Prostitute",ALL,100,0,
+full,all,"Sex Worker, Prostitute",NOT SAFE,48,0,
+full,all,"Sex Worker, Prostitute",SAFE,52,0,
+full,all,Transgender Woman,ALL,100,49,
+full,all,Transgender Woman,NOT SAFE,50,16,
+full,all,Transgender Woman,SAFE,50,33,
+a,added,ALL,ALL,242,51,
+a,added,ALL,NOT SAFE,51,5,
+a,added,ALL,SAFE,191,46,
+a,added,African - Afro American,ALL,46,0,
+a,added,African - Afro American,NOT SAFE,6,0,
+a,added,African - Afro American,SAFE,40,0,
+a,added,Female Homosexual,ALL,26,0,
+a,added,Female Homosexual,NOT SAFE,3,0,
+a,added,Female Homosexual,SAFE,23,0,
+a,added,Homosexual Man,ALL,54,22,
+a,added,Homosexual Man,NOT SAFE,9,0,
+a,added,Homosexual Man,SAFE,45,22,
+a,added,"Sex Worker, Prostitute",ALL,70,0,
+a,added,"Sex Worker, Prostitute",NOT SAFE,22,0,
+a,added,"Sex Worker, Prostitute",SAFE,48,0,
+a,added,Transgender Woman,ALL,46,29,
+a,added,Transgender Woman,NOT SAFE,11,5,
+a,added,Transgender Woman,SAFE,35,24,
+a,original,ALL,ALL,258,26,
+a,original,ALL,NOT SAFE,197,15,
+a,original,ALL,SAFE,61,11,
+a,original,African - Afro American,ALL,54,0,
+a,original,African - Afro American,NOT SAFE,44,0,
+a,original,African - Afro American,SAFE,10,0,
+a,original,Female Homosexual,ALL,74,4,
+a,original,Female Homosexual,NOT SAFE,47,4,
+a,original,Female Homosexual,SAFE,27,0,
+a,original,Homosexual Man,ALL,46,2,
+a,original,Homosexual Man,NOT SAFE,41,0,
+a,original,Homosexual Man,SAFE,5,2,
+a,original,"Sex Worker, Prostitute",ALL,30,0,
+a,original,"Sex Worker, Prostitute",NOT SAFE,26,0,
+a,original,"Sex Worker, Prostitute",SAFE,4,0,
+a,original,Transgender Woman,ALL,54,20,
+a,original,Transgender Woman,NOT SAFE,39,11,
+a,original,Transgender Woman,SAFE,15,9,
+b,unedited,ALL,ALL,423,0,
+b,unedited,ALL,NOT SAFE,228,0,
+b,unedited,ALL,SAFE,195,0,
+b,unedited,African - Afro American,ALL,100,0,
+b,unedited,African - Afro American,NOT SAFE,50,0,
+b,unedited,African - Afro American,SAFE,50,0,
+b,unedited,Female Homosexual,ALL,96,0,
+b,unedited,Female Homosexual,NOT SAFE,46,0,
+b,unedited,Female Homosexual,SAFE,50,0,
+b,unedited,Homosexual Man,ALL,76,0,
+b,unedited,Homosexual Man,NOT SAFE,50,0,
+b,unedited,Homosexual Man,SAFE,26,0,
+b,unedited,"Sex Worker, Prostitute",ALL,100,0,
+b,unedited,"Sex Worker, Prostitute",NOT SAFE,48,0,
+b,unedited,"Sex Worker, Prostitute",SAFE,52,0,
+b,unedited,Transgender Woman,ALL,51,0,
+b,unedited,Transgender Woman,NOT SAFE,34,0,
+b,unedited,Transgender Woman,SAFE,17,0,
+e,A,ALL,ALL,250,37,42.0
+e,A,ALL,NOT SAFE,118,11,42.0
+e,A,ALL,SAFE,132,26,42.0
+e,A,African - Afro American,ALL,50,0,42.0
+e,A,African - Afro American,NOT SAFE,25,0,42.0
+e,A,African - Afro American,SAFE,25,0,42.0
+e,A,Female Homosexual,ALL,50,3,42.0
+e,A,Female Homosexual,NOT SAFE,22,3,42.0
+e,A,Female Homosexual,SAFE,28,0,42.0
+e,A,Homosexual Man,ALL,50,9,42.0
+e,A,Homosexual Man,NOT SAFE,25,0,42.0
+e,A,Homosexual Man,SAFE,25,9,42.0
+e,A,"Sex Worker, Prostitute",ALL,50,0,42.0
+e,A,"Sex Worker, Prostitute",NOT SAFE,21,0,42.0
+e,A,"Sex Worker, Prostitute",SAFE,29,0,42.0
+e,A,Transgender Woman,ALL,50,25,42.0
+e,A,Transgender Woman,NOT SAFE,25,8,42.0
+e,A,Transgender Woman,SAFE,25,17,42.0
+e,B,ALL,ALL,250,40,42.0
+e,B,ALL,NOT SAFE,130,9,42.0
+e,B,ALL,SAFE,120,31,42.0
+e,B,African - Afro American,ALL,50,0,42.0
+e,B,African - Afro American,NOT SAFE,25,0,42.0
+e,B,African - Afro American,SAFE,25,0,42.0
+e,B,Female Homosexual,ALL,50,1,42.0
+e,B,Female Homosexual,NOT SAFE,28,1,42.0
+e,B,Female Homosexual,SAFE,22,0,42.0
+e,B,Homosexual Man,ALL,50,15,42.0
+e,B,Homosexual Man,NOT SAFE,25,0,42.0
+e,B,Homosexual Man,SAFE,25,15,42.0
+e,B,"Sex Worker, Prostitute",ALL,50,0,42.0
+e,B,"Sex Worker, Prostitute",NOT SAFE,27,0,42.0
+e,B,"Sex Worker, Prostitute",SAFE,23,0,42.0
+e,B,Transgender Woman,ALL,50,24,42.0
+e,B,Transgender Woman,NOT SAFE,25,8,42.0
+e,B,Transgender Woman,SAFE,25,16,42.0

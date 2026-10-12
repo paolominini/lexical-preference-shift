@@ -1,0 +1,2 @@
+test,n,k,chi2,df,p,kendall_w,mean_rank_sft,mean_rank_sft_dpo,mean_rank_sft_ppo,mean_rank_sft_kto,h2_outcome
+friedman_delta_sft_family,500,4,382.7087999999994,3,1.2312454943002059e-82,0.2551391999999996,2.806,2.326,3.19,1.678,supported

@@ -1,0 +1,16 @@
+check,value,pass
+1. full sample reproduces h1_tests (both references),9.71445146547012e-17,True
+1. full sample reproduces h2_friedman,1.463023860841312e-98,True
+1. full sample reproduces h2_pairwise,1.1102230246251565e-16,True
+1. full sample reproduces h2kto_tests,1.1102230246251565e-16,True
+"1. full sample reproduces h3_tests (S9 function, both references)",1.9157692706218968e-16,True
+"1. full sample reproduces h3_tests (S10 wrapper, base_bos)",0.0,True
+1. full sample reproduces h3_shift_by_category,9.020562075079397e-17,True
+2a. rebuilding delta_1.4b from scores (no word removed) = file,0.0,True
+2a. rebuilding delta_1.4b_base_nobos from scores (no word removed) = file,0.0,True
+4. aligned Delta identical in main and no-BOS files (H2/H2-KTO hold by construction in d),0.0,True
+3a. (b) unedited = 423 (77 removed),423.0,True
+"3b. (a) added 242 / original 258, disjoint, union 500",242.0,True
+"3c. (e) halves 250/250, 50 per category each, disjoint (seed 42)",250.0,True
+2b. D = delta_pos - delta_neg in every LOWO variant (max abs error),5.551115123125783e-15,True
+2c. LOWO: categories without the removed word bit-identical to main,0.0,True

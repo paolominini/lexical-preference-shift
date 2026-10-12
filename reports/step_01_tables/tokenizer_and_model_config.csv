@@ -1,0 +1,16 @@
+,base,sft,sft_dpo,sft_ppo,sft_kto,kto
+tokenizer_class,GPTNeoXTokenizer,GPTNeoXTokenizer,GPTNeoXTokenizer,GPTNeoXTokenizer,GPTNeoXTokenizer,GPTNeoXTokenizer
+add_bos_token,,,,,,
+add_eos_token,,,,,,
+bos_token,<|endoftext|>,<|endoftext|>,<|endoftext|>,<|endoftext|>,<|endoftext|>,<|endoftext|>
+eos_token,<|endoftext|>,<|endoftext|>,<|endoftext|>,<|endoftext|>,<|endoftext|>,<|endoftext|>
+pad_token,,<|endoftext|>,<|endoftext|>,<|endoftext|>,<|endoftext|>,<|endoftext|>
+padding_side,,,,,,
+model_max_length,,1000000000000000019884624838656,1000000000000000019884624838656,1000000000000000019884624838656,1000000000000000019884624838656,1000000000000000019884624838656
+clean_up_tokenization_spaces,,True,True,True,True,True
+config.architectures,['GPTNeoXForCausalLM'],['GPTNeoXForCausalLM'],['GPTNeoXForCausalLM'],['GPTNeoXForCausalLM'],['GPTNeoXForCausalLM'],['GPTNeoXForCausalLM']
+config.dtype,,,,,,
+config.torch_dtype,float16,bfloat16,bfloat16,bfloat16,bfloat16,bfloat16
+config.vocab_size,50304,50304,50304,50304,50304,50304
+config.bos_token_id,0,0,0,0,0,0
+config.eos_token_id,0,0,0,0,0,0

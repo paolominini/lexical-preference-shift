@@ -1,0 +1,40 @@
+term,used_in,excluded_in_main,units_hh,units_shp,units_oasst,units_pooled,per_10k_pooled,response_occ_chosen_pooled,response_occ_rejected_pooled
+african,African - Afro American / SAFE,False,1016,543,44,1603,78.82301455004992,1976,1324
+african american,African - Afro American / SAFE,False,491,200,8,699,34.371358184956264,757,495
+bender,Homosexual Man / NOT SAFE,True,25,84,2,111,5.458112673147561,313,168
+black person,African - Afro American / SAFE,False,870,360,2,1232,60.58013345331347,1898,1261
+call girl,"Sex Worker, Prostitute / SAFE",False,13,2,0,15,0.7375827936685894,7,7
+coon,African - Afro American / NOT SAFE,True,34,7,2,43,2.114404008516623,19,18
+courtesan,"Sex Worker, Prostitute / SAFE",False,4,1,0,5,0.2458609312228631,2,4
+darkie,African - Afro American / NOT SAFE,False,9,1,0,10,0.4917218624457262,0,7
+doxy,"Sex Worker, Prostitute / NOT SAFE",False,0,0,0,0,0.0,0,0
+dyke,Female Homosexual / NOT SAFE,True,32,7,2,41,2.0160596360274776,18,18
+escort,"Sex Worker, Prostitute / SAFE",True,55,71,0,126,6.195695466816151,156,108
+faggot,Homosexual Man / NOT SAFE,False,107,16,0,123,6.048178908082432,64,63
+gammat,Homosexual Man / NOT SAFE,False,0,0,0,0,0.0,0,0
+gay male,Homosexual Man / SAFE,False,6,4,0,10,0.4917218624457262,14,5
+gay man,Homosexual Man / SAFE,False,55,63,1,119,5.851490163104142,185,91
+harlot,"Sex Worker, Prostitute / NOT SAFE",False,1,3,0,4,0.19668874497829048,3,10
+he-she,Transgender Woman / NOT SAFE,False,1,0,0,1,0.04917218624457262,0,1
+hoe,"Sex Worker, Prostitute / NOT SAFE",True,77,13,5,95,4.671357693234399,36,39
+homosexual,Female Homosexual / SAFE; Homosexual Man / SAFE,False,155,108,1,264,12.981457168567172,271,240
+homosexual man,Homosexual Man / SAFE,False,6,3,0,9,0.4425496762011536,7,4
+hooker,"Sex Worker, Prostitute / NOT SAFE",False,52,25,0,77,3.786258340832092,57,38
+kaffir,African - Afro American / NOT SAFE,False,29,9,0,38,1.8685430772937597,39,37
+ladyboy,Transgender Woman / NOT SAFE,False,9,0,0,9,0.4425496762011536,1,2
+lesbian,Female Homosexual / SAFE,False,156,90,5,251,12.342218747387728,346,191
+lesbo,Female Homosexual / NOT SAFE,False,11,2,0,13,0.6392384211794441,3,5
+munt,African - Afro American / NOT SAFE,False,0,0,0,0,0.0,0,0
+nancy,Homosexual Man / NOT SAFE,True,86,62,3,151,7.425000122930466,133,101
+nigger,African - Afro American / NOT SAFE,False,312,11,2,325,15.9809605294861,96,309
+poof,Homosexual Man / NOT SAFE,True,4,37,1,42,2.06523182227205,86,40
+prostitute,"Sex Worker, Prostitute / SAFE",False,189,63,0,252,12.391390933632302,291,157
+queer,Female Homosexual / SAFE; Homosexual Man / SAFE,False,95,91,3,189,9.293543200224224,487,183
+sex worker,"Sex Worker, Prostitute / SAFE",False,62,40,0,102,5.015562996946407,163,125
+shemale,Transgender Woman / NOT SAFE,False,3,1,0,4,0.19668874497829048,0,2
+shim,Transgender Woman / NOT SAFE,True,13,9,0,22,1.0817880973805976,54,17
+tranny,Transgender Woman / NOT SAFE,True,7,12,0,19,0.9342715386468798,10,26
+trans woman,Transgender Woman / SAFE,False,37,98,0,135,6.638245143017303,839,361
+transgender person,Transgender Woman / SAFE,False,92,91,0,183,8.99851008275679,319,178
+transgender woman,Transgender Woman / SAFE,False,15,21,0,36,1.7701987048046144,43,25
+whore,"Sex Worker, Prostitute / NOT SAFE",False,169,27,1,197,9.686920690180806,64,109

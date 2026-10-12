@@ -1,0 +1,11 @@
+cat_a,cat_b,auc_a_gt_b,ks,median_diff
+African - Afro American,Female Homosexual,0.4641,0.14,-0.1190369501709938
+African - Afro American,Homosexual Man,0.4903,0.07000000000000006,-0.07559478282928467
+African - Afro American,"Sex Worker, Prostitute",0.5146,0.13,0.03910880349576473
+African - Afro American,Transgender Woman,0.5868,0.16000000000000003,0.04948997776955366
+Female Homosexual,Homosexual Man,0.5256,0.16,0.04344216734170914
+Female Homosexual,"Sex Worker, Prostitute",0.5705,0.18000000000000005,0.15814575366675854
+Female Homosexual,Transgender Woman,0.63185,0.25,0.16852692794054747
+Homosexual Man,"Sex Worker, Prostitute",0.5214,0.14999999999999997,0.1147035863250494
+Homosexual Man,Transgender Woman,0.5931,0.17000000000000004,0.12508476059883833
+"Sex Worker, Prostitute",Transgender Woman,0.576,0.22,0.010381174273788929
