@@ -24,10 +24,14 @@ Then read how probable the model finds each candidate for the slot: neutral word
 post-trained checkpoint with its base model on the same prefix gives the **preference shift** D:
 
 ```math
-\Delta_M(S) = \underset{w \in W^{+}}{\operatorname{mean}} \log P_M(w \mid S) \;-\; \underset{w \in W^{-}}{\operatorname{mean}} \log P_M(w \mid S)
-\qquad
-D_M(S) = \Delta_M(S) - \Delta_{\text{Base}}(S)
+\Delta_M(S) = \frac{1}{|W^{+}|}\sum_{w \in W^{+}} \log P_M(w \mid S) - \frac{1}{|W^{-}|}\sum_{w \in W^{-}} \log P_M(w \mid S)
 ```
+
+```math
+D_M(S) = \Delta_M(S) - \Delta_{\mathrm{Base}}(S)
+```
+
+where W<sup>+</sup> and W<sup>−</sup> are the neutral and the derogatory pool of the group.
 
 D > 0 means that post-training moved the preference towards the neutral words; e<sup>D</sup> is the factor by which
 the ratio between the two pools changed. Units are nats.
