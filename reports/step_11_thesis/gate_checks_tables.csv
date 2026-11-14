@@ -1,0 +1,49 @@
+check,value,expected,passed,blocking
+tab_design: internal labels,none,none,True,True
+tab_design: derogatory words,0,0,True,True
+tab_design: dropped terms,none,none,True,True
+"tab_design: structure (braces, & per row)",True,True,True,True
+tab_design: copy in thesis/tables identical,True,True,True,True
+tab_checkpoints: internal labels,none,none,True,True
+tab_checkpoints: derogatory words,0,0,True,True
+tab_checkpoints: dropped terms,none,none,True,True
+"tab_checkpoints: structure (braces, & per row)",True,True,True,True
+tab_checkpoints: copy in thesis/tables identical,True,True,True,True
+tab_h1: internal labels,none,none,True,True
+tab_h1: derogatory words,0,0,True,True
+tab_h1: dropped terms,none,none,True,True
+"tab_h1: structure (braces, & per row)",True,True,True,True
+tab_h1: copy in thesis/tables identical,True,True,True,True
+tab_h2: internal labels,none,none,True,True
+tab_h2: derogatory words,0,0,True,True
+tab_h2: dropped terms,none,none,True,True
+"tab_h2: structure (braces, & per row)",True,True,True,True
+tab_h2: copy in thesis/tables identical,True,True,True,True
+tab_h3: internal labels,none,none,True,True
+tab_h3: derogatory words,0,0,True,True
+tab_h3: dropped terms,none,none,True,True
+"tab_h3: structure (braces, & per row)",True,True,True,True
+tab_h3: copy in thesis/tables identical,True,True,True,True
+tab_h3_per_model: internal labels,none,none,True,True
+tab_h3_per_model: derogatory words,0,0,True,True
+tab_h3_per_model: dropped terms,none,none,True,True
+"tab_h3_per_model: structure (braces, & per row)",True,True,True,True
+tab_h3_per_model: copy in thesis/tables identical,True,True,True,True
+tab_robustness: internal labels,none,none,True,True
+tab_robustness: derogatory words,0,0,True,True
+tab_robustness: dropped terms,none,none,True,True
+"tab_robustness: structure (braces, & per row)",True,True,True,True
+tab_robustness: copy in thesis/tables identical,True,True,True,True
+number: H1 SFT-family mean D,+0.43 to +0.56,+0.43 to +0.56,True,False
+number: H1 SFT-family d_z,0.62-0.79,0.62-0.79,True,False
+number: H1 Direct KTO,"+0.02, 95% CI [-0.04, 0.08]","+0.02, 95% CI [-0.04, 0.08]",True,False
+number: H2 Friedman p,1.2e-82,1.2e-82,True,False
+number: H2 largest gap,0.13 nat,0.13 nat,True,False
+number: H2 Kendall W,0.26,0.26,True,False
+number: H2 pairs at precision scale,3,3,True,False
+"number: H2-KTO mean, d_z","0.41 nat less, d_z -0.91","0.41 nat less, d_z -0.91",True,False
+number: H3 KW H,39-59,39-59,True,False
+number: H3 epsilon^2,0.08-0.12,0.08-0.12,True,False
+number: H3 ANCOVA F,11.5-16.8,11.5-16.8,True,False
+number: H3 range raw / adjusted,0.49-0.64 / 0.51-0.64,0.49-0.64 / 0.51-0.64,True,False
+number: H3 Direct KTO Transgender Woman,"-0.54 [-0.72, -0.37]","-0.54 [-0.72, -0.37]",True,False

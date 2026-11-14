@@ -1,0 +1,10 @@
+check,internal_found,display_missing,thesis_copy_identical,passed
+"fig_rq1_D_distribution: labels, thesis copy",none,none,True,True
+"fig_rq1_components_vs_base: labels, thesis copy",none,none,True,True
+"fig_rq2_delta_boxplots: labels, thesis copy",none,none,True,True
+"fig_rq2_pairwise_differences: labels, thesis copy",none,none,True,True
+"fig_rq2_components_aligned: labels, thesis copy",none,none,True,True
+"fig_rq3_shift_by_category: labels, thesis copy",none,none,True,True
+"fig_rq3_shift_distribution: labels, thesis copy",none,none,True,True
+"fig_rq3_toxicity_scatter: labels, thesis copy",none,none,True,True
+"fig_rq3_category_frequency: labels, thesis copy",none,none,True,True

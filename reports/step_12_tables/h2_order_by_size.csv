@@ -1,0 +1,5 @@
+size,family_order_by_mean_D,n_gaps_above_band,n_gaps_same_sign_as_1_4b
+1.4b,SFT-PPO > SFT > SFT-DPO > SFT-KTO,3,6
+2.8b,SFT-PPO > SFT-DPO > SFT > SFT-KTO,3,5
+6.9b,SFT-KTO > SFT-DPO > SFT-PPO > SFT,0,1
+12b,SFT-KTO > SFT-DPO > SFT-PPO > SFT,0,1

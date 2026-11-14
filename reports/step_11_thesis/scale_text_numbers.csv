@@ -1,0 +1,41 @@
+size,quantity,value
+1.4B,H1 verdicts (thesis rule),"4/5 supported (SFT, SFT-DPO, SFT-PPO, SFT-KTO)"
+1.4B,SFT-family mean D range,+0.43 to +0.56
+1.4B,Direct KTO mean D [CI],"+0.02 [-0.04, 0.08], Wilcoxon p = 0.26"
+1.4B,Base mean Delta,1.60
+1.4B,SFT-family delta_pos range,-0.41 to -0.30
+1.4B,SFT-family delta_neg range,-0.97 to -0.80
+1.4B,Direct KTO delta_pos / delta_neg,-0.35 / -0.36
+1.4B,H2 gaps above the tolerance (of 6),3
+1.4B,H2-KTO mean D [CI],"-0.41 [-0.45, -0.37]"
+1.4B,rho of the SFT-family category order vs 1.4B,--
+2.8B,H1 verdicts (thesis rule),"5/5 supported (SFT, SFT-DPO, SFT-PPO, SFT-KTO, Direct KTO)"
+2.8B,SFT-family mean D range,+0.35 to +0.44
+2.8B,Direct KTO mean D [CI],"+0.11 [0.05, 0.18], Wilcoxon p = 4.8e-06"
+2.8B,Base mean Delta,1.61
+2.8B,SFT-family delta_pos range,-0.44 to -0.30
+2.8B,SFT-family delta_neg range,-0.88 to -0.65
+2.8B,Direct KTO delta_pos / delta_neg,-0.28 / -0.40
+2.8B,H2 gaps above the tolerance (of 6),3
+2.8B,H2-KTO mean D [CI],"-0.24 [-0.28, -0.21]"
+2.8B,rho of the SFT-family category order vs 1.4B,+0.6
+6.9B,H1 verdicts (thesis rule),"5/5 supported (SFT, SFT-DPO, SFT-PPO, SFT-KTO, Direct KTO)"
+6.9B,SFT-family mean D range,+0.17 to +0.22
+6.9B,Direct KTO mean D [CI],"+0.09 [0.03, 0.16], Wilcoxon p = 0.00023"
+6.9B,Base mean Delta,1.48
+6.9B,SFT-family delta_pos range,-0.63 to -0.49
+6.9B,SFT-family delta_neg range,-0.81 to -0.68
+6.9B,Direct KTO delta_pos / delta_neg,-0.38 / -0.47
+6.9B,H2 gaps above the tolerance (of 6),0
+6.9B,H2-KTO mean D [CI],"-0.12 [-0.15, -0.10]"
+6.9B,rho of the SFT-family category order vs 1.4B,-0.6
+12B,H1 verdicts (thesis rule),0/5 supported; significantly negative: Direct KTO
+12B,SFT-family mean D range,-0.08 to -0.04
+12B,Direct KTO mean D [CI],"-0.28 [-0.36, -0.21], Wilcoxon p = 1.7e-08"
+12B,Base mean Delta,1.47
+12B,SFT-family delta_pos range,-0.78 to -0.61
+12B,SFT-family delta_neg range,-0.72 to -0.57
+12B,Direct KTO delta_pos / delta_neg,-0.56 / -0.28
+12B,H2 gaps above the tolerance (of 6),0
+12B,H2-KTO mean D [CI],"-0.24 [-0.27, -0.21]"
+12B,rho of the SFT-family category order vs 1.4B,-0.5

@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the thesis as below."
+title: "lexical-preference-shift"
+type: software
+authors:
+  - family-names: Minini
+    given-names: Paolo
+license: MIT
+repository-code: "https://github.com/paolominini/lexical-preference-shift"
+url: "https://github.com/paolominini/lexical-preference-shift"
+preferred-citation:
+  type: thesis
+  thesis-type: "Master's thesis"
+  title: "A probability-based method for measuring post-training effects on lexical preferences in Language Models"
+  authors:
+    - family-names: Minini
+      given-names: Paolo
+  institution:
+    name: "Università degli Studi di Milano"
+    city: Milan
+    country: IT
+  year: 2026
+  url: "https://github.com/paolominini/lexical-preference-shift"

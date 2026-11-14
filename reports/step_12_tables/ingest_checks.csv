@@ -1,0 +1,97 @@
+size,set,check,passed,detail
+1.4b,files,"expected files present (2 parquet, step_00_env.md, 4 step_04 tables)",True,7/7
+1.4b,files,original zip == unzipped files (bytes),True,7/7 members identical; extra unzipped files: []
+1.4b,main,row count,True,24600 (expected 24600)
+1.4b,main,"pair set (prefix_id, model, word) identical to Mac 1.4B",True,
+1.4b,main,non-finite logp = 0,True,0
+1.4b,main,logp <= 0,True,max -0.1658
+1.4b,main,n_tokens per pair == Mac 1.4B (tokenizer check),True,0 mismatches
+1.4b,main,category and polarity_word per pair == Mac 1.4B,True,0 mismatches
+1.4b,main,bos column,True,all True
+1.4b,main,dtype column float16,True,['float16']
+1.4b,main,"input_format (base raw, aligned chat)",True,
+1.4b,main,model_repo == config models[1.4b],True,
+1.4b,nobos,row count,True,4100 (expected 4100)
+1.4b,nobos,"pair set (prefix_id, model, word) identical to Mac 1.4B",True,
+1.4b,nobos,non-finite logp = 0,True,0
+1.4b,nobos,logp <= 0,True,max -0.1301
+1.4b,nobos,n_tokens per pair == Mac 1.4B (tokenizer check),True,0 mismatches
+1.4b,nobos,category and polarity_word per pair == Mac 1.4B,True,0 mismatches
+1.4b,nobos,bos column,True,all False
+1.4b,nobos,dtype column float16,True,['float16']
+1.4b,nobos,"input_format (base raw, aligned chat)",True,
+1.4b,nobos,model_repo == config models[1.4b],True,
+1.4b,server,gate_checks.csv: all rows passed,True,25 rows
+1.4b,server,spot check: re-scored rows bit-identical,True,6/6; max |stored - manual| 0.00e+00
+2.8b,files,"expected files present (2 parquet, step_00_env.md, 4 step_04 tables)",True,7/7
+2.8b,files,original zip == unzipped files (bytes),True,7/7 members identical; extra unzipped files: []
+2.8b,main,row count,True,24600 (expected 24600)
+2.8b,main,"pair set (prefix_id, model, word) identical to Mac 1.4B",True,
+2.8b,main,non-finite logp = 0,True,0
+2.8b,main,logp <= 0,True,max -0.2635
+2.8b,main,n_tokens per pair == Mac 1.4B (tokenizer check),True,0 mismatches
+2.8b,main,category and polarity_word per pair == Mac 1.4B,True,0 mismatches
+2.8b,main,bos column,True,all True
+2.8b,main,dtype column float16,True,['float16']
+2.8b,main,"input_format (base raw, aligned chat)",True,
+2.8b,main,model_repo == config models[2.8b],True,
+2.8b,nobos,row count,True,4100 (expected 4100)
+2.8b,nobos,"pair set (prefix_id, model, word) identical to Mac 1.4B",True,
+2.8b,nobos,non-finite logp = 0,True,0
+2.8b,nobos,logp <= 0,True,max -0.3306
+2.8b,nobos,n_tokens per pair == Mac 1.4B (tokenizer check),True,0 mismatches
+2.8b,nobos,category and polarity_word per pair == Mac 1.4B,True,0 mismatches
+2.8b,nobos,bos column,True,all False
+2.8b,nobos,dtype column float16,True,['float16']
+2.8b,nobos,"input_format (base raw, aligned chat)",True,
+2.8b,nobos,model_repo == config models[2.8b],True,
+2.8b,server,gate_checks.csv: all rows passed,True,25 rows
+2.8b,server,spot check: re-scored rows bit-identical,True,6/6; max |stored - manual| 0.00e+00
+6.9b,files,"expected files present (2 parquet, step_00_env.md, 4 step_04 tables)",True,7/7
+6.9b,files,original zip == unzipped files (bytes),True,7/7 members identical; extra unzipped files: []
+6.9b,main,row count,True,24600 (expected 24600)
+6.9b,main,"pair set (prefix_id, model, word) identical to Mac 1.4B",True,
+6.9b,main,non-finite logp = 0,True,0
+6.9b,main,logp <= 0,True,max -0.0394
+6.9b,main,n_tokens per pair == Mac 1.4B (tokenizer check),True,0 mismatches
+6.9b,main,category and polarity_word per pair == Mac 1.4B,True,0 mismatches
+6.9b,main,bos column,True,all True
+6.9b,main,dtype column float16,True,['float16']
+6.9b,main,"input_format (base raw, aligned chat)",True,
+6.9b,main,model_repo == config models[6.9b],True,
+6.9b,nobos,row count,True,4100 (expected 4100)
+6.9b,nobos,"pair set (prefix_id, model, word) identical to Mac 1.4B",True,
+6.9b,nobos,non-finite logp = 0,True,0
+6.9b,nobos,logp <= 0,True,max -0.0971
+6.9b,nobos,n_tokens per pair == Mac 1.4B (tokenizer check),True,0 mismatches
+6.9b,nobos,category and polarity_word per pair == Mac 1.4B,True,0 mismatches
+6.9b,nobos,bos column,True,all False
+6.9b,nobos,dtype column float16,True,['float16']
+6.9b,nobos,"input_format (base raw, aligned chat)",True,
+6.9b,nobos,model_repo == config models[6.9b],True,
+6.9b,server,gate_checks.csv: all rows passed,True,25 rows
+6.9b,server,spot check: re-scored rows bit-identical,True,6/6; max |stored - manual| 0.00e+00
+12b,files,"expected files present (2 parquet, step_00_env.md, 4 step_04 tables)",True,7/7
+12b,files,original zip == unzipped files (bytes),True,7/7 members identical; extra unzipped files: []
+12b,main,row count,True,24600 (expected 24600)
+12b,main,"pair set (prefix_id, model, word) identical to Mac 1.4B",True,
+12b,main,non-finite logp = 0,True,0
+12b,main,logp <= 0,True,max -0.0480
+12b,main,n_tokens per pair == Mac 1.4B (tokenizer check),True,0 mismatches
+12b,main,category and polarity_word per pair == Mac 1.4B,True,0 mismatches
+12b,main,bos column,True,all True
+12b,main,dtype column float16,True,['float16']
+12b,main,"input_format (base raw, aligned chat)",True,
+12b,main,model_repo == config models[12b],True,
+12b,nobos,row count,True,4100 (expected 4100)
+12b,nobos,"pair set (prefix_id, model, word) identical to Mac 1.4B",True,
+12b,nobos,non-finite logp = 0,True,0
+12b,nobos,logp <= 0,True,max -0.0823
+12b,nobos,n_tokens per pair == Mac 1.4B (tokenizer check),True,0 mismatches
+12b,nobos,category and polarity_word per pair == Mac 1.4B,True,0 mismatches
+12b,nobos,bos column,True,all False
+12b,nobos,dtype column float16,True,['float16']
+12b,nobos,"input_format (base raw, aligned chat)",True,
+12b,nobos,model_repo == config models[12b],True,
+12b,server,gate_checks.csv: all rows passed,True,25 rows
+12b,server,spot check: re-scored rows bit-identical,True,6/6; max |stored - manual| 0.00e+00

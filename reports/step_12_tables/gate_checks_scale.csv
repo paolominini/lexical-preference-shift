@@ -1,0 +1,14 @@
+check,value,pass
+"1.4b: D tables complete (3000 / 2500 rows), identity D = delta_pos - delta_neg < 1e-9",True,True
+"2.8b: D tables complete (3000 / 2500 rows), identity D = delta_pos - delta_neg < 1e-9",True,True
+"6.9b: D tables complete (3000 / 2500 rows), identity D = delta_pos - delta_neg < 1e-9",True,True
+"12b: D tables complete (3000 / 2500 rows), identity D = delta_pos - delta_neg < 1e-9",True,True
+1.4B H1 == S7 h1_tests.csv,9.71445146547012e-17,True
+1.4B H2 pairs == S8 h2_pairwise.csv,9.020562075079397e-17,True
+1.4B H2-KTO == S8 h2kto_tests.csv,9.020562075079397e-17,True
+1.4B Shift == S9 h3_shift_by_category.csv,9.020562075079397e-17,True
+rho of 1.4B vs itself = 1,1.1102230246251565e-16,True
+1.4b: rows H1 / H2 pairs / Shift = 10 / 6 / 25,"(10, 6, 25)",True
+2.8b: rows H1 / H2 pairs / Shift = 10 / 6 / 25,"(10, 6, 25)",True
+6.9b: rows H1 / H2 pairs / Shift = 10 / 6 / 25,"(10, 6, 25)",True
+12b: rows H1 / H2 pairs / Shift = 10 / 6 / 25,"(10, 6, 25)",True

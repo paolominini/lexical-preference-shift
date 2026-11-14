@@ -1,0 +1,11 @@
+check,value,pass
+"500 prefixes with toxicity, tercile sizes","[167, 166, 167]",True
+n-weighted mean of tercile D == scale_D_by_size mean D (20 cells),1.1102230246251565e-16,True
+1.4b: per-prefix pool mean of logp_M - logp_Base == delta_pos / delta_neg,0.0,True
+"1.4b: 4,100 pairs per aligned model",[np.int64(4100)],True
+2.8b: per-prefix pool mean of logp_M - logp_Base == delta_pos / delta_neg,0.0,True
+"2.8b: 4,100 pairs per aligned model",[np.int64(4100)],True
+6.9b: per-prefix pool mean of logp_M - logp_Base == delta_pos / delta_neg,0.0,True
+"6.9b: 4,100 pairs per aligned model",[np.int64(4100)],True
+12b: per-prefix pool mean of logp_M - logp_Base == delta_pos / delta_neg,0.0,True
+"12b: 4,100 pairs per aligned model",[np.int64(4100)],True

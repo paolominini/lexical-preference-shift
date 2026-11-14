@@ -1,4 +1,5 @@
-# Linux / CUDA environment for the GPU server (Python 3.12.5), same versions as requirements-lock.txt (Mac).
+# Linux / CUDA environment for the GPU server. The cluster currently provides Python 3.11, so a few
+# Python 3.12-only pins from requirements-lock.txt are lowered to the newest Python 3.11-compatible wheels.
 # On Linux, torch==2.14.1 from PyPI is the CUDA 13 build (NVIDIA driver >= 580). With an older driver, first run:
 #   pip install torch==2.14.1 --index-url https://download.pytorch.org/whl/cu126
 # then: pip install -r requirements-cuda.txt
@@ -7,7 +8,7 @@ annotated-doc==0.0.5
 anyio==4.15.1
 certifi==2026.7.22
 click==8.5.0
-contourpy==1.4.0
+contourpy==1.3.3
 cycler==0.12.1
 detoxify==0.5.2
 et_xmlfile==2.0.0
@@ -31,8 +32,8 @@ matplotlib==3.11.2
 mdurl==0.1.2
 mpmath==1.3.0
 narwhals==2.26.0
-networkx==3.7
-numpy==2.5.3
+networkx==3.6.1
+numpy==2.4.6
 openpyxl==3.1.5
 packaging==26.3
 pandas==3.0.6
@@ -49,7 +50,7 @@ PyYAML==6.0.3
 regex==2026.9.29
 rich==15.0.0
 safetensors==0.8.0
-scipy==1.18.1
+scipy==1.17.1
 seaborn==0.13.2
 sentencepiece==0.2.2
 setuptools==84.0.0

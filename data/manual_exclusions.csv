@@ -1,0 +1,15 @@
+corpus,doc_id,source_word,reason
+dynahate,dyna_27489,bender,"non-person: binge (""a crack bender"")"
+dynahate,dyna_27880,bender,"non-person: binge (""a weekend bender"")"
+dynahate,dyna_38721,bender,"non-person: word mentioned, not used (""the word bender"")"
+mhs,26286,nancy,non-person: proper name (Nancy P[elosi])
+hatexplain,25707858_gab,coon,"non-person: animal (""an orange coon cat"")"
+hatexplain,23784140_gab,coon,"non-person: ""coon night"""
+hatexplain,17972729_gab,coon,"non-person: ""coon day"""
+hatexplain,21088573_gab,coon,"non-person: modifier of a place (""a dirty coon shack"")"
+dynahate,dyna_4972,coon,"non-person: modifier (""coon-predominant country"")"
+dynahate,dyna_5849,coon,"non-person: modifier (""the coon circus"")"
+mhs,27313,coon,"non-person: modifier inside ""coon ass hoe""; prefix unrelated to the word"
+hatexplain,12857719_gab,coon,"off-category: ""dune coon"" targets Arabs not Black people"
+hatexplain,22768622_gab,coon,"off-category: ""dune coon"" targets Arabs not Black people"
+mhs,10833,coon,"off-category: ""coon dune"" in anti-Arab post"

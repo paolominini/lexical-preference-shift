@@ -1,0 +1,26 @@
+check,value,expected,passed,blocking
+tab_scale 1.4B SFT == tab_h1 cells,"$+0.51$ $[0.45, 0.57]$","$+0.51$ $[0.45, 0.57]$",True,True
+tab_scale 1.4B SFT-DPO == tab_h1 cells,"$+0.47$ $[0.41, 0.53]$","$+0.47$ $[0.41, 0.53]$",True,True
+tab_scale 1.4B SFT-PPO == tab_h1 cells,"$+0.56$ $[0.50, 0.62]$","$+0.56$ $[0.50, 0.62]$",True,True
+tab_scale 1.4B SFT-KTO == tab_h1 cells,"$+0.43$ $[0.37, 0.49]$","$+0.43$ $[0.37, 0.49]$",True,True
+tab_scale 1.4B Direct KTO == tab_h1 cells,"$+0.02$ $[-0.04, 0.08]$","$+0.02$ $[-0.04, 0.08]$",True,True
+1.4B mean D and CI == step_07 h1_tests.csv (max abs diff < 1e-12),True,True,True,True
+1.4B components == step_07 components_vs_base.csv ALL (max abs diff < 1e-12),True,True,True,True
+1.4B SFT-family Shift == step_09 h3_family_summary.csv (max abs diff < 1e-12),True,True,True,True
+"components mean D == h1_by_size mean, all sizes (max abs diff < 1e-12)",True,True,True,True
+"H1 verdicts: thesis rule (unadjusted) vs h1_by_size.csv (Bonferroni x5), cells that differ",none,none,True,False
+tab_scale: internal labels,none,none,True,True
+tab_scale: derogatory words,0,0,True,True
+tab_scale: dropped terms or 'alignment',none,none,True,True
+"tab_scale: structure (braces, & per row)",True,True,True,True
+tab_scale: copy in thesis/tables identical,True,True,True,True
+tab_scale_categories: internal labels,none,none,True,True
+tab_scale_categories: derogatory words,0,0,True,True
+tab_scale_categories: dropped terms or 'alignment',none,none,True,True
+"tab_scale_categories: structure (braces, & per row)",True,True,True,True
+tab_scale_categories: copy in thesis/tables identical,True,True,True,True
+"fig_scale_D_by_size: labels, thesis copy",True,True,True,True
+"fig_scale_components: labels, thesis copy",True,True,True,True
+"fig_scale_D_by_size: no 'align', no 'KTO (direct)', 0 derogatory words",0,0,True,True
+"fig_scale_components: no 'align', no 'KTO (direct)', 0 derogatory words",0,0,True,True
+inputs unchanged (md5 of delta_<size>.parquet and step_12 CSVs before = after),True,True,True,True

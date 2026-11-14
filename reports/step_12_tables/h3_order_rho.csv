@@ -1,0 +1,25 @@
+size,series,label,rho_vs_1_4b
+1.4b,sft,SFT,0.9999999999999999
+1.4b,sft_dpo,SFT-DPO,0.9999999999999999
+1.4b,sft_ppo,SFT-PPO,0.9999999999999999
+1.4b,sft_kto,SFT-KTO,0.9999999999999999
+1.4b,kto,KTO (direct),0.9999999999999999
+1.4b,family_mean,SFT-family mean,0.9999999999999999
+2.8b,sft,SFT,0.7
+2.8b,sft_dpo,SFT-DPO,0.6
+2.8b,sft_ppo,SFT-PPO,0.9999999999999999
+2.8b,sft_kto,SFT-KTO,0.6
+2.8b,kto,KTO (direct),0.3
+2.8b,family_mean,SFT-family mean,0.6
+6.9b,sft,SFT,-0.6
+6.9b,sft_dpo,SFT-DPO,-0.6
+6.9b,sft_ppo,SFT-PPO,-0.6
+6.9b,sft_kto,SFT-KTO,-0.6
+6.9b,kto,KTO (direct),0.39999999999999997
+6.9b,family_mean,SFT-family mean,-0.6
+12b,sft,SFT,-0.49999999999999994
+12b,sft_dpo,SFT-DPO,-0.49999999999999994
+12b,sft_ppo,SFT-PPO,-0.7999999999999999
+12b,sft_kto,SFT-KTO,-0.49999999999999994
+12b,kto,KTO (direct),0.7
+12b,family_mean,SFT-family mean,-0.49999999999999994

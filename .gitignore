@@ -10,10 +10,5 @@ models/
 .cache/
 # part files of a scoring run (running or interrupted)
 results/scores_*/
-# outputs of a new scoring run: sent by email, not committed
-results/scores_*.parquet
-results/*_2.8b*
-results/*_6.9b*
-results/*_12b*
+# figures written by the analysis scripts (the thesis versions are in thesis/figures/)
 results/figures/
-risultati_*.zip
